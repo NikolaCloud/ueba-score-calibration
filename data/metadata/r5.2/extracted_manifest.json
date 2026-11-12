@@ -1,0 +1,122 @@
+[
+  {
+    "archive_member": "r5.2/logon.csv",
+    "bytes": 123899774,
+    "sha256": "36208b73e2ba1b3fedea3055491fccbe1fc3d7a4f9b60bb256e3ad610de0e944"
+  },
+  {
+    "archive_member": "r5.2/license.txt",
+    "bytes": 3923,
+    "sha256": "0a4f2481498ce8158486fcfe24103910e70405e42b407c5cbe07cf9a7ceb58b9"
+  },
+  {
+    "archive_member": "r5.2/readme.txt",
+    "bytes": 6143,
+    "sha256": "47bb33905b0ae1d0d44ca5b1416be670dd33c5d3872d0fcc142539bd68ed8650"
+  },
+  {
+    "archive_member": "r5.2/file.csv",
+    "bytes": 407897835,
+    "sha256": "5614094ea54fd26fe1ace44e849c872a329541075cefba15dc0a11e8be367495"
+  },
+  {
+    "archive_member": "r5.2/device.csv",
+    "bytes": 75721678,
+    "sha256": "a9f042493da53e7dc624b3efd899c6f7579312885daa6d572f959a69eda81be7"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-12.csv",
+    "bytes": 305703,
+    "sha256": "4ff56b5541de68870ffa782f663cc92f0d8d8fffca84549b8297ff64783e25cf"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2009-12.csv",
+    "bytes": 332026,
+    "sha256": "c8331acf19926029c327ddf494efd83a345719157886fa90ab1d9fae16e47a51"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-04.csv",
+    "bytes": 326699,
+    "sha256": "d9eed8a7deaf99b59050bef88152cae498ea8299537a35f4626970ec2335e614"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-03.csv",
+    "bytes": 327733,
+    "sha256": "f67fb30f3cfcc6d00a72467c7035f7ece6f8fc83f42463ac6bb5546594aa36eb"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2011-01.csv",
+    "bytes": 303702,
+    "sha256": "3f9a7a2700fb884f56efa3197fe4d0a2e8a472bd95cba6a8b35e5999e746b6e1"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-02.csv",
+    "bytes": 329908,
+    "sha256": "9ba78f67573f92cdd28a0451f653fd16f596747b583b1e6808b43bb6ae790855"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-05.csv",
+    "bytes": 325473,
+    "sha256": "0dec07dc46fa8e6c9b188c5479a69391ca62209217809469cb946abbf0e0e7b1"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-08.csv",
+    "bytes": 317583,
+    "sha256": "6787eb9511b3b39ad82a56540938c0b5d4458ff8711410b2795004986ac2f290"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-06.csv",
+    "bytes": 322674,
+    "sha256": "9fd84f21f955d46130b4fa3b715aa2f62fba40b9feeaa70c8a485a7a7b15dd6d"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-01.csv",
+    "bytes": 331674,
+    "sha256": "9869b085c48ae1671ca8a34ceabe683d57b5fd221d96c4e534b19654877a6c6f"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-10.csv",
+    "bytes": 311708,
+    "sha256": "9f4328867c52e440351fd3cb460bcc79a5605cf959ac2f248dd96ff8a44007e3"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2011-02.csv",
+    "bytes": 301121,
+    "sha256": "a7cb61f008bf5ba4d167ad7c581bc6947b508a13fd315e44286a81bda4aca4fa"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2011-05.csv",
+    "bytes": 293067,
+    "sha256": "55304f209c2b69b45199dc5da9d19c914151dfdfd92a6e0f93e78621fccb0e28"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-07.csv",
+    "bytes": 321001,
+    "sha256": "376f2f96455be7e408e50549a99fe4175eef411f0309acf9df50aff8ff3ff95b"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-09.csv",
+    "bytes": 313775,
+    "sha256": "ef716782f41de2a6ac37d3e4e0755236d7081681379ee319ed6982b3962806e9"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2011-04.csv",
+    "bytes": 295826,
+    "sha256": "2080f7612c5c8de0a332900314f6e8050d705de29346c82aa263d02d772b63ce"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2010-11.csv",
+    "bytes": 309381,
+    "sha256": "7370a3b83b54561bb460d36e05c4953d91306c796a366ca63cba856dd5d5ab91"
+  },
+  {
+    "archive_member": "r5.2/LDAP/2011-03.csv",
+    "bytes": 298156,
+    "sha256": "394e3e679bf2a7b5d73361d0f9e06caea80931da8eee32384f392d3142db1115"
+  },
+  {
+    "archive_member": "r5.2/email.csv",
+    "bytes": 9418258627,
+    "sha256": "9686736f24b58c218036071df7d535434fa6cfadc05d175efc250c3d62b63d55"
+  }
+]

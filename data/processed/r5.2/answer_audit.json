@@ -1,0 +1,61 @@
+{
+  "release": "r5.2",
+  "official_incidents": 99,
+  "official_key_files": 99,
+  "incidents_by_scenario": {
+    "1": 29,
+    "2": 30,
+    "3": 10,
+    "4": 30
+  },
+  "raw_observable_references": 10328,
+  "unique_events": 10326,
+  "repeated_references_removed": 2,
+  "other_account_references": [
+    {
+      "event_type": "file",
+      "event_id": "{T2J7-B6HR91JU-5699TMEL}",
+      "timestamp": "10/14/2010 16:43:44",
+      "user": "DIM0330",
+      "pc": "PC-9499",
+      "scenario": 4,
+      "incident_id": "r5.2-4-CBW1826.csv",
+      "incident_insider": "CBW1826",
+      "master_start": "10/14/2010 16:43:44",
+      "master_end": "03/23/2011 13:33:50",
+      "key_owner_matches_account": false,
+      "date": "2010-10-14 00:00:00"
+    },
+    {
+      "event_type": "file",
+      "event_id": "{Y7M6-Z6WR17QM-2484RFYV}",
+      "timestamp": "03/22/2011 18:23:29",
+      "user": "JIG1593",
+      "pc": "PC-5241",
+      "scenario": 4,
+      "incident_id": "r5.2-4-JCC0016.csv",
+      "incident_insider": "JCC0016",
+      "master_start": "11/02/2010 07:20:04",
+      "master_end": "03/22/2011 18:23:29",
+      "key_owner_matches_account": false,
+      "date": "2011-03-22 00:00:00"
+    }
+  ],
+  "positive_days": 1307,
+  "positive_accounts": 99,
+  "days_by_scenario": {
+    "1": 85,
+    "2": 863,
+    "3": 20,
+    "4": 339,
+    "5": 0
+  },
+  "multi_scenario_days": 0,
+  "earliest": "2010-04-16",
+  "latest": "2011-05-19",
+  "interpretation": "Official incident-observable account-days, including precursor/context events; not all days of an insider.",
+  "cross_reference_resolution": "Two scenario-4 observables also occur in their actual account owner's incident key; deduplicated by (event_type,id), preserving all key references.",
+  "absent_scenarios": [
+    5
+  ]
+}

@@ -1,0 +1,16 @@
+scenario,event_type,selected_feature_event,events
+1,device,True,130
+1,file,False,161
+1,logon,True,130
+2,device,True,2282
+2,email,True,402
+3,device,True,40
+3,email,False,26
+3,email,True,20
+3,file,False,10
+3,file,True,10
+3,logon,True,40
+4,email,False,339
+4,email,True,339
+4,file,False,1823
+4,logon,True,678

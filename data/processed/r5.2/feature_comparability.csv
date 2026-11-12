@@ -1,0 +1,18 @@
+feature,definition_mapping,model_input
+afterhours_events,Union/sum over selected comparable logon/device/file-write/email-send events,True
+device_afterhours,Same event and activity definitions as r4.2,True
+device_events,Same event and activity definitions as r4.2,True
+email_afterhours,Outgoing Send events only; Receive omitted,True
+email_events,Outgoing Send events only; Receive omitted,True
+external_recipients,Outgoing Send events only; Receive omitted,True
+file_afterhours,r4.2 removable-media copy; r5.2 File Write/Copy with to_removable_media=True,True
+file_events,r4.2 removable-media copy; r5.2 File Write/Copy with to_removable_media=True,True
+logoffs,Same event and activity definitions as r4.2,True
+logon_afterhours,Same event and activity definitions as r4.2,True
+logon_events,Same event and activity definitions as r4.2,True
+logons,Same event and activity definitions as r4.2,True
+total_events,Union/sum over selected comparable logon/device/file-write/email-send events,True
+unique_pcs,Union/sum over selected comparable logon/device/file-write/email-send events,True
+usb_connects,Same event and activity definitions as r4.2,True
+usb_disconnects,Same event and activity definitions as r4.2,True
+weekend_events,Union/sum over selected comparable logon/device/file-write/email-send events,True

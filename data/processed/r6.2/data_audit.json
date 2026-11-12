@@ -1,0 +1,131 @@
+{
+  "release": "r6.2",
+  "users": 4000,
+  "active_days": 1394010,
+  "positive_days": 45,
+  "negative_days": 1393965,
+  "positive_accounts": 6,
+  "roles": 46,
+  "unknown_role_days": 0,
+  "missing_label_days": 0,
+  "start": "2010-01-02",
+  "end": "2011-06-01",
+  "features": [
+    "afterhours_events",
+    "device_afterhours",
+    "device_events",
+    "email_afterhours",
+    "email_events",
+    "external_recipients",
+    "file_afterhours",
+    "file_events",
+    "logoffs",
+    "logon_afterhours",
+    "logon_events",
+    "logons",
+    "total_events",
+    "unique_pcs",
+    "usb_connects",
+    "usb_disconnects",
+    "weekend_events"
+  ],
+  "http_used": false,
+  "confirmed_non_http_events": 249,
+  "source_audit": {
+    "logon": {
+      "columns": [
+        "id",
+        "date",
+        "user",
+        "pc",
+        "activity"
+      ],
+      "counts": {
+        "raw_rows": 3530285,
+        "selected_rows_before_dedup": 3530285
+      },
+      "raw_activity_counts": {
+        "Logon": 1948933,
+        "Logoff": 1581352
+      },
+      "unique_selected_events": 3530285,
+      "deduplication_scope": "Selected comparable events"
+    },
+    "device": {
+      "columns": [
+        "id",
+        "date",
+        "user",
+        "pc",
+        "file_tree",
+        "activity"
+      ],
+      "counts": {
+        "raw_rows": 1551828,
+        "selected_rows_before_dedup": 1551828
+      },
+      "raw_activity_counts": {
+        "Connect": 778354,
+        "Disconnect": 773474
+      },
+      "unique_selected_events": 1551828,
+      "deduplication_scope": "Selected comparable events"
+    },
+    "file": {
+      "columns": [
+        "id",
+        "date",
+        "user",
+        "pc",
+        "filename",
+        "activity",
+        "to_removable_media",
+        "from_removable_media",
+        "content"
+      ],
+      "counts": {
+        "raw_rows": 2014883,
+        "selected_rows_before_dedup": 584737
+      },
+      "raw_activity_counts": {
+        "File Open": 657500,
+        "File Write": 251126,
+        "File Copy": 725458,
+        "File Delete": 380799
+      },
+      "unique_selected_events": 584737,
+      "deduplication_scope": "Selected comparable events"
+    },
+    "email": {
+      "columns": [
+        "id",
+        "date",
+        "user",
+        "pc",
+        "to",
+        "cc",
+        "bcc",
+        "from",
+        "activity",
+        "size",
+        "attachments",
+        "content"
+      ],
+      "counts": {
+        "raw_rows": 10994957,
+        "selected_rows_before_dedup": 3832466
+      },
+      "raw_activity_counts": {
+        "Send": 3832466,
+        "View": 7162491
+      },
+      "unique_selected_events": 3832466,
+      "deduplication_scope": "Selected comparable events"
+    }
+  },
+  "feature_semantics": {
+    "file": "File Write/Copy AND to_removable_media=True; r4.2 contains removable-media copies only, so write-vs-copy granularity is a mapping limitation",
+    "email": "Send only; Receive excluded",
+    "total_events": "Only comparable selected events"
+  }
+}

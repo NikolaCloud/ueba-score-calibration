@@ -1,0 +1,6 @@
+{
+  "original_source": "ueba/replication/prepare.py",
+  "original_sha256": "95c02246f9548b86ec4a1e7716fe374e3ca76e17d326978ab54f47b465277770",
+  "adapter": "Replace literal r5.2 with r6.2 only, preserving schema assertions and all feature/filter logic",
+  "adapted_sha256": "60325b5d9c810a04ff18ed6abcb5853c5940ba070968128a54f33eb9c613b87b"
+}

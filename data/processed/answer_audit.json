@@ -1,0 +1,36 @@
+{
+  "definition": "incident-observable day of insider or verified stolen-account activity; benign supervisor replies excluded",
+  "note": "Official observables include preparatory/precursor activity; they do not independently prove malicious intent of every event.",
+  "counts": {
+    "scenario_3_email_all": 50,
+    "benign_other_actor_observables_excluded": 20,
+    "scenario_3_http_all": 53,
+    "scenario_3_device_all": 40,
+    "scenario_3_file_all": 10,
+    "scenario_3_logon_all": 60,
+    "impersonated_account_attack_events_included": 30,
+    "scenario_2_http_all": 3738,
+    "scenario_2_email_all": 420,
+    "scenario_2_device_all": 2607,
+    "scenario_1_logon_all": 138,
+    "scenario_1_device_all": 138,
+    "scenario_1_http_all": 69
+  },
+  "events": 7303,
+  "days": 976,
+  "users": 72,
+  "min": "2010-06-10 00:00:00",
+  "max": "2011-04-29 00:00:00",
+  "by_scenario": {
+    "1": 85,
+    "2": 861,
+    "3": 30
+  },
+  "by_type": {
+    "device": 2785,
+    "email": 450,
+    "file": 10,
+    "http": 3860,
+    "logon": 198
+  }
+}

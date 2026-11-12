@@ -1,0 +1,114 @@
+[
+  {
+    "path": "r6.2/device.csv",
+    "bytes": 139541381
+  },
+  {
+    "path": "r6.2/license-exactdata.txt",
+    "bytes": 3923
+  },
+  {
+    "path": "r6.2/logon.csv",
+    "bytes": 241640758
+  },
+  {
+    "path": "r6.2/psychometric.csv",
+    "bytes": 178740
+  },
+  {
+    "path": "r6.2/file.csv",
+    "bytes": 1331296612
+  },
+  {
+    "path": "r6.2/license-wikipedia.txt",
+    "bytes": 185273
+  },
+  {
+    "path": "r6.2/http.csv",
+    "bytes": 90233360621
+  },
+  {
+    "path": "r6.2/LDAP/2010-08.csv",
+    "bytes": 660639
+  },
+  {
+    "path": "r6.2/LDAP/2010-06.csv",
+    "bytes": 666777
+  },
+  {
+    "path": "r6.2/LDAP/2010-01.csv",
+    "bytes": 684273
+  },
+  {
+    "path": "r6.2/LDAP/2010-10.csv",
+    "bytes": 651817
+  },
+  {
+    "path": "r6.2/LDAP/2011-02.csv",
+    "bytes": 633878
+  },
+  {
+    "path": "r6.2/LDAP/2011-05.csv",
+    "bytes": 623225
+  },
+  {
+    "path": "r6.2/LDAP/2010-07.csv",
+    "bytes": 664154
+  },
+  {
+    "path": "r6.2/LDAP/2010-09.csv",
+    "bytes": 656984
+  },
+  {
+    "path": "r6.2/LDAP/2011-04.csv",
+    "bytes": 625777
+  },
+  {
+    "path": "r6.2/LDAP/2010-11.csv",
+    "bytes": 646765
+  },
+  {
+    "path": "r6.2/LDAP/2011-03.csv",
+    "bytes": 628952
+  },
+  {
+    "path": "r6.2/LDAP/2010-12.csv",
+    "bytes": 641464
+  },
+  {
+    "path": "r6.2/LDAP/2009-12.csv",
+    "bytes": 685282
+  },
+  {
+    "path": "r6.2/LDAP/2010-04.csv",
+    "bytes": 672938
+  },
+  {
+    "path": "r6.2/LDAP/2010-03.csv",
+    "bytes": 676248
+  },
+  {
+    "path": "r6.2/LDAP/2011-01.csv",
+    "bytes": 637092
+  },
+  {
+    "path": "r6.2/LDAP/2010-02.csv",
+    "bytes": 680433
+  },
+  {
+    "path": "r6.2/LDAP/2010-05.csv",
+    "bytes": 669559
+  },
+  {
+    "path": "r6.2/readme.txt",
+    "bytes": 6492
+  },
+  {
+    "path": "r6.2/email.csv",
+    "bytes": 8084765283
+  },
+  {
+    "path": "r6.2/decoy_file.csv",
+    "bytes": 1077698
+  }
+]

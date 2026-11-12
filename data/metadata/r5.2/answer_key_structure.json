@@ -1,0 +1,6019 @@
+[
+  {
+    "file": "answers/r5.2-4/r5.2-4-NKN1405.csv",
+    "rows": 104,
+    "kinds": {
+      "logon": 18,
+      "file": 68,
+      "email": 18
+    },
+    "actors": {
+      "NKN1405": 104
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{F5Q6-X7AG33PC-3983WWKP}",
+        "11/01/2010 17:32:06",
+        "NKN1405",
+        "PC-3687"
+      ],
+      [
+        "file",
+        "{M4Q8-X5PN87FV-5100TJJP}",
+        "11/01/2010 17:36:21",
+        "NKN1405",
+        "PC-3687",
+        "C:\\475rJw8\\HAFY3RCN.pdf",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{L0N2-P6ZA56ER-1113RXIF}",
+        "12/30/2010 16:03:27",
+        "NKN1405",
+        "PC-7876",
+        "NKN7812@netzero.com",
+        "",
+        "",
+        "Nathaniel.Kane.Nixon@dtaa.com",
+        "Send",
+        "1091193",
+        "likened.doc(737818);these.doc(324975)"
+      ],
+      [
+        "email",
+        "{L6Q3-Y1QG85ER-1702HFVN}",
+        "12/30/2010 16:04:27",
+        "NKN1405",
+        "PC-6111",
+        "NKN7812@netzero.com",
+        "",
+        "",
+        "Nathaniel.Kane.Nixon@dtaa.com",
+        "Receive",
+        "1091193",
+        "likened.doc(737818);these.doc(324975)"
+      ],
+      [
+        "logon",
+        "{O4J8-S1JS71WZ-4418PLPW}",
+        "12/30/2010 16:07:35",
+        "NKN1405",
+        "PC-7876"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-AMC1883.csv",
+    "rows": 100,
+    "kinds": {
+      "logon": 22,
+      "file": 56,
+      "email": 22
+    },
+    "actors": {
+      "AMC1883": 100
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{V5W2-S5TX30WP-5968PQHM}",
+        "01/14/2011 08:11:09",
+        "AMC1883",
+        "PC-1911"
+      ],
+      [
+        "file",
+        "{K6W5-A8KQ69LI-3968MVTU}",
+        "01/14/2011 08:12:17",
+        "AMC1883",
+        "PC-1911",
+        "C:\\RP04PQ0M.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{M8P0-V9BV90RD-5348IUNA}",
+        "03/08/2011 08:29:33",
+        "AMC1883",
+        "PC-8536",
+        "C:\\R6URKAKJ.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{M4V5-K6DV66NM-1812HILV}",
+        "03/08/2011 08:30:40",
+        "AMC1883",
+        "PC-8536",
+        "C:\\71p2y45\\CD6SKA3B.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{U5X4-I3KQ93MU-9392WHML}",
+        "03/08/2011 08:33:48",
+        "AMC1883",
+        "PC-8536"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-KDC0996.csv",
+    "rows": 89,
+    "kinds": {
+      "logon": 20,
+      "file": 49,
+      "email": 20
+    },
+    "actors": {
+      "KDC0996": 89
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{D0K7-X5NX26NC-3956LRVX}",
+        "12/21/2010 17:58:43",
+        "KDC0996",
+        "PC-5405"
+      ],
+      [
+        "file",
+        "{O9T4-C6PP15PZ-7819FLWA}",
+        "12/21/2010 18:03:12",
+        "KDC0996",
+        "PC-5405",
+        "C:\\FEV1955\\M807TRM4.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{T4C5-J8EU47AU-2515ZMVX}",
+        "02/22/2011 18:20:51",
+        "KDC0996",
+        "PC-6830",
+        "C:\\74fN8r2\\8UCY7WER.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{E1C9-U6NB66FI-6910WXSD}",
+        "02/22/2011 18:21:32",
+        "KDC0996",
+        "PC-6830",
+        "C:\\PIR1632\\WFFFN7OL.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{C4O8-L8AA15KL-2547XNCV}",
+        "02/22/2011 18:22:37",
+        "KDC0996",
+        "PC-6830"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-WCW1013.csv",
+    "rows": 81,
+    "kinds": {
+      "logon": 20,
+      "email": 20,
+      "file": 41
+    },
+    "actors": {
+      "WCW1013": 81
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{C5N8-W0JN93BE-5330EZYX}",
+        "08/25/2010 08:32:20",
+        "WCW1013",
+        "PC-8906"
+      ],
+      [
+        "email",
+        "{J1X0-E9AF91QV-2257ZCVU}",
+        "08/25/2010 08:40:25",
+        "WCW1013",
+        "PC-8906",
+        "WCW2579@gmail.com",
+        "",
+        "",
+        "Walter.Cameron.William@dtaa.com",
+        "Send",
+        "1843372",
+        "earth.pdf(1813996)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{P2R1-G1EQ95US-7559YUME}",
+        "11/08/2010 08:45:41",
+        "WCW1013",
+        "PC-9127",
+        "C:\\RGB9R14E.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{E9U8-B9DS67DW-4312QWAQ}",
+        "11/08/2010 08:49:33",
+        "WCW1013",
+        "PC-9127",
+        "C:\\RGB9R14E.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{U1O8-I6ZY56RC-6072URFV}",
+        "11/08/2010 08:52:13",
+        "WCW1013",
+        "PC-9127"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-RCG0584.csv",
+    "rows": 146,
+    "kinds": {
+      "logon": 28,
+      "file": 90,
+      "email": 28
+    },
+    "actors": {
+      "RCG0584": 146
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{Z0T6-A1GY90HV-9283GPGD}",
+        "08/03/2010 11:43:07",
+        "RCG0584",
+        "PC-8493"
+      ],
+      [
+        "file",
+        "{I8R1-D8QL95WM-8784CNXS}",
+        "08/03/2010 11:50:22",
+        "RCG0584",
+        "PC-8493",
+        "C:\\535tHF8\\MYR45VD3.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{N4G6-D8RI27JK-2436DGAO}",
+        "10/29/2010 08:00:49",
+        "RCG0584",
+        "PC-0431",
+        "C:\\CXLUSYXL.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{E7C8-Y2DH59UE-6982NJQL}",
+        "10/29/2010 08:01:27",
+        "RCG0584",
+        "PC-0431",
+        "C:\\MTS0958\\NVX6JK0B.txt",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{Y0E7-V2NS78NR-6461JLVE}",
+        "10/29/2010 08:02:38",
+        "RCG0584",
+        "PC-0431"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-DQM0809.csv",
+    "rows": 74,
+    "kinds": {
+      "logon": 18,
+      "file": 38,
+      "email": 18
+    },
+    "actors": {
+      "DQM0809": 74
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{V4R7-B6KE05YM-3477RZWG}",
+        "11/18/2010 07:46:22",
+        "DQM0809",
+        "PC-8385"
+      ],
+      [
+        "file",
+        "{C1F6-G2LR65PP-6720RBSR}",
+        "11/18/2010 07:47:23",
+        "DQM0809",
+        "PC-8385",
+        "C:\\4JLEVH3X.pdf",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{Z8Q6-V2KH23YZ-6746ZXUN}",
+        "02/01/2011 11:42:30",
+        "DQM0809",
+        "PC-5478",
+        "Desirae_Mclaughlin@sbcglobal.net",
+        "",
+        "",
+        "Desirae.Quintessa.Mclaughlin@dtaa.com",
+        "Receive",
+        "3342769",
+        "1988.pdf(2348732);present.pdf(459411);much.jpg(498395)"
+      ],
+      [
+        "file",
+        "{S1W5-L0DZ14AJ-7005WNXD}",
+        "02/01/2011 11:44:21",
+        "DQM0809",
+        "PC-1615",
+        "C:\\719MPp8\\BI0WW32W.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{Q4H1-H8YZ75TU-8341ICAQ}",
+        "02/01/2011 11:49:23",
+        "DQM0809",
+        "PC-1615"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-CBW1826.csv",
+    "rows": 131,
+    "kinds": {
+      "file": 79,
+      "logon": 26,
+      "email": 26
+    },
+    "actors": {
+      "DIM0330": 1,
+      "CBW1826": 130
+    },
+    "first_rows": [
+      [
+        "file",
+        "{T2J7-B6HR91JU-5699TMEL}",
+        "10/14/2010 16:43:44",
+        "DIM0330",
+        "PC-9499",
+        "C:\\CBW1826\\FGIC4XBK.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{N3C5-U6HL79RE-2982GGRZ}",
+        "01/18/2011 10:31:22",
+        "CBW1826",
+        "PC-3031"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{C5N1-B5AV95BY-4144QHOU}",
+        "03/23/2011 13:24:33",
+        "CBW1826",
+        "PC-9499",
+        "Carly_B_Witt@hotmail.com",
+        "",
+        "",
+        "Carly.Bell.Witt@dtaa.com",
+        "Receive",
+        "9654126",
+        "reverts.jpg(231568);produced.doc(979108);assigned.pdf(1281131);hed.doc(569299);1986.pdf(964955);oriented.jpg(403794);humor.doc(1228008);even.doc(1477297);absence.doc(814553);hed1.doc(1679847)"
+      ],
+      [
+        "file",
+        "{Y7M0-U7VI04XB-1080FRLT}",
+        "03/23/2011 13:27:58",
+        "CBW1826",
+        "PC-6989",
+        "C:\\GYP1321\\P1OUYPH1.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{M8S6-H3QQ72VE-5293POFL}",
+        "03/23/2011 13:33:50",
+        "CBW1826",
+        "PC-6989"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-GMB0400.csv",
+    "rows": 112,
+    "kinds": {
+      "logon": 28,
+      "email": 28,
+      "file": 56
+    },
+    "actors": {
+      "GMB0400": 112
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{Z2R0-J9LP10IX-8429CYCM}",
+        "02/16/2011 08:04:07",
+        "GMB0400",
+        "PC-8963"
+      ],
+      [
+        "email",
+        "{R4C2-J2OP19FV-9117NRAV}",
+        "02/16/2011 08:06:05",
+        "GMB0400",
+        "PC-8963",
+        "Burt_Giselle@hotmail.com",
+        "",
+        "",
+        "Giselle.Mia.Burt@dtaa.com",
+        "Send",
+        "4490228",
+        "prior.doc(21243);los.doc(664424);active.doc(1313828);could.doc(722638);fire.doc(41694);often.jpg(1272974);los1.doc(418526)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{H2Q4-L1NN79DN-1014CMQC}",
+        "04/15/2011 13:57:33",
+        "GMB0400",
+        "PC-7596",
+        "Burt_Giselle@hotmail.com",
+        "",
+        "",
+        "Giselle.Mia.Burt@dtaa.com",
+        "Send",
+        "6519062",
+        "caused.doc(271166);loath.zip(832238);sustain.doc(1770652);can.doc(1277063);victory.doc(1680702);key.doc(668117)"
+      ],
+      [
+        "email",
+        "{O0V0-J1RF21YE-3862NONY}",
+        "04/15/2011 13:58:33",
+        "GMB0400",
+        "PC-9984",
+        "Burt_Giselle@hotmail.com",
+        "",
+        "",
+        "Giselle.Mia.Burt@dtaa.com",
+        "Receive",
+        "6519062",
+        "caused.doc(271166);loath.zip(832238);sustain.doc(1770652);can.doc(1277063);victory.doc(1680702);key.doc(668117)"
+      ],
+      [
+        "logon",
+        "{B8W8-T8CR95TK-0204FGKX}",
+        "04/15/2011 14:00:47",
+        "GMB0400",
+        "PC-7596"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-HBP1076.csv",
+    "rows": 75,
+    "kinds": {
+      "logon": 16,
+      "file": 43,
+      "email": 16
+    },
+    "actors": {
+      "HBP1076": 75
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{V0Z2-N2ND26KI-6324LYYE}",
+        "02/09/2011 12:30:26",
+        "HBP1076",
+        "PC-9270"
+      ],
+      [
+        "file",
+        "{Y4L0-H5SP51AZ-9533JTKM}",
+        "02/09/2011 12:33:10",
+        "HBP1076",
+        "PC-9270",
+        "C:\\1EWJJDCK.zip",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{Q4I3-E0KD33VV-7769YCCG}",
+        "04/25/2011 08:14:58",
+        "HBP1076",
+        "PC-8103",
+        "C:\\61DrTk0\\45LO3SPL.jpg",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{M6C1-R3NC37QZ-7165AQGS}",
+        "04/25/2011 08:16:47",
+        "HBP1076",
+        "PC-8103",
+        "C:\\9IVV54OC.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{Q3K4-R9ZG52DS-8550TZVB}",
+        "04/25/2011 08:19:54",
+        "HBP1076",
+        "PC-8103"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-BDP0096.csv",
+    "rows": 144,
+    "kinds": {
+      "logon": 30,
+      "file": 84,
+      "email": 30
+    },
+    "actors": {
+      "BDP0096": 144
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{L0L3-B9QO10UL-5756GATC}",
+        "11/15/2010 14:13:11",
+        "BDP0096",
+        "PC-6375"
+      ],
+      [
+        "file",
+        "{Q7P3-O0BO74JQ-2697FUPI}",
+        "11/15/2010 14:17:06",
+        "BDP0096",
+        "PC-6375",
+        "C:\\88M4KR4\\9LCH1IFQ.exe",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{D2F9-N6ZW85TD-5711NAYO}",
+        "02/07/2011 08:15:12",
+        "BDP0096",
+        "PC-7701",
+        "C:\\57d9cj4\\VUGHPYV9.jpg",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{P6V4-K2EW26DQ-8484WHOK}",
+        "02/07/2011 08:16:09",
+        "BDP0096",
+        "PC-7701",
+        "C:\\GBO1324\\45XFQGAF.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{U8U9-K2RW87VU-2327TOTS}",
+        "02/07/2011 08:19:45",
+        "BDP0096",
+        "PC-7701"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-JMM0613.csv",
+    "rows": 84,
+    "kinds": {
+      "logon": 18,
+      "file": 48,
+      "email": 18
+    },
+    "actors": {
+      "JMM0613": 84
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{U5G9-B7VS31WB-8688LYEK}",
+        "01/12/2011 07:48:22",
+        "JMM0613",
+        "PC-4377"
+      ],
+      [
+        "file",
+        "{A4F1-S5GV84EF-8708MAAO}",
+        "01/12/2011 07:49:42",
+        "JMM0613",
+        "PC-4377",
+        "C:\\63PEYNOQ.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{G0Q2-G1VJ20AE-1896XTAU}",
+        "03/23/2011 08:49:56",
+        "JMM0613",
+        "PC-7701",
+        "C:\\GBO1324\\11TRUXTS.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{O5K4-H4II97XF-2989CDZW}",
+        "03/23/2011 08:52:48",
+        "JMM0613",
+        "PC-7701",
+        "C:\\GBO1324\\11TRUXTS.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{V6X0-K8NL79GA-9293UJKK}",
+        "03/23/2011 08:53:52",
+        "JMM0613",
+        "PC-7701"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-NZL1395.csv",
+    "rows": 124,
+    "kinds": {
+      "logon": 22,
+      "file": 80,
+      "email": 22
+    },
+    "actors": {
+      "NZL1395": 124
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{T2F5-S9BC20NX-3000JIAX}",
+        "02/02/2011 08:18:04",
+        "NZL1395",
+        "PC-1732"
+      ],
+      [
+        "file",
+        "{Q5A7-Y3DI63LN-2943WZHE}",
+        "02/02/2011 08:20:41",
+        "NZL1395",
+        "PC-1732",
+        "C:\\52gWLt0\\L4JOYXSZ.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{X8U7-A0TK28AD-4711AACE}",
+        "04/21/2011 16:08:40",
+        "NZL1395",
+        "PC-6270",
+        "C:\\XKB0040\\NSIMSJX9.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{R8H3-X2KU03MK-5115RROX}",
+        "04/21/2011 16:08:56",
+        "NZL1395",
+        "PC-6270",
+        "C:\\XKB0040\\NSIMSJX9.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{X2S1-E6AQ95BV-0998RDSO}",
+        "04/21/2011 16:12:15",
+        "NZL1395",
+        "PC-6270"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-DIM0330.csv",
+    "rows": 128,
+    "kinds": {
+      "logon": 28,
+      "email": 28,
+      "file": 72
+    },
+    "actors": {
+      "DIM0330": 128
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{K7M5-G7NA78CJ-7890IOIL}",
+        "09/09/2010 16:25:08",
+        "DIM0330",
+        "PC-0670"
+      ],
+      [
+        "email",
+        "{X7G9-R0TG57UJ-7725FFMA}",
+        "09/09/2010 16:26:11",
+        "DIM0330",
+        "PC-0670",
+        "Dominique_Merritt@charter.net",
+        "",
+        "",
+        "Dominique.Ima.Merritt@dtaa.com",
+        "Send",
+        "4482738",
+        "via.doc(1245130);prepare.doc(474338);against.doc(1295350);against1.doc(285171);is.doc(1149560)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{L8R4-D9YK10GP-3455UFKA}",
+        "12/01/2010 15:39:23",
+        "DIM0330",
+        "PC-2903",
+        "C:\\56FWK71\\ZCHCQSC3.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{Q9L2-Z4TF42BU-3517QMAU}",
+        "12/01/2010 15:40:18",
+        "DIM0330",
+        "PC-2903",
+        "C:\\15k9zN4\\1Y6OTIDU.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{Y4L0-M7QC20XP-0799YMRK}",
+        "12/01/2010 15:44:25",
+        "DIM0330",
+        "PC-2903"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-MJR0711.csv",
+    "rows": 113,
+    "kinds": {
+      "logon": 24,
+      "file": 65,
+      "email": 24
+    },
+    "actors": {
+      "MJR0711": 113
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{F8S1-X7UX49UV-2188DYAT}",
+        "08/11/2010 10:48:54",
+        "MJR0711",
+        "PC-2349"
+      ],
+      [
+        "file",
+        "{O4L3-A3NY47AY-0324MZMK}",
+        "08/11/2010 10:52:51",
+        "MJR0711",
+        "PC-2349",
+        "C:\\26zk373\\ASAV36WN.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{G8D8-W9SY59PP-2270PSJK}",
+        "10/28/2010 17:45:59",
+        "MJR0711",
+        "PC-0188",
+        "MJR54@aol.com",
+        "",
+        "",
+        "Malachi.Jack.Riddle@dtaa.com",
+        "Receive",
+        "6730481",
+        "showed.pdf(650380);recover.zip(354748);matured.pdf(192890);six.doc(324402);observed.doc(1540869);australian.jpg(1586796);standing.doc(1492554);by.doc(541417)"
+      ],
+      [
+        "file",
+        "{I5W1-P2AA94UG-6332XTHZ}",
+        "10/28/2010 17:49:59",
+        "MJR0711",
+        "PC-9088",
+        "C:\\XJS1358\\H530I6RP.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{D5X8-T7SS26CX-5234OJQZ}",
+        "10/28/2010 17:51:05",
+        "MJR0711",
+        "PC-9088"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-DKG0161.csv",
+    "rows": 136,
+    "kinds": {
+      "logon": 24,
+      "file": 88,
+      "email": 24
+    },
+    "actors": {
+      "DKG0161": 136
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{D7P0-J9PA74JE-6555WJOP}",
+        "01/19/2011 10:09:28",
+        "DKG0161",
+        "PC-8774"
+      ],
+      [
+        "file",
+        "{D1F4-E0NI73QU-0332FVJA}",
+        "01/19/2011 10:11:14",
+        "DKG0161",
+        "PC-8774",
+        "C:\\5CTGH0KX.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{F3D6-O3JN91NK-1365SQAZ}",
+        "04/07/2011 07:48:18",
+        "DKG0161",
+        "PC-8151",
+        "Dawn_Gregory@msn.com",
+        "",
+        "",
+        "Dawn.Karina.Gregory@dtaa.com",
+        "Receive",
+        "3893023",
+        "job.doc(214500);industry.doc(459006);dynamic.pdf(51486);job.zip(837292);start.doc(894834);multitask.pdf(368970);initiative.pdf(225801);years.pdf(175139);skills.pdf(638563)"
+      ],
+      [
+        "file",
+        "{N1S2-N9SD94RC-6820ZRJU}",
+        "04/07/2011 07:49:23",
+        "DKG0161",
+        "PC-9600",
+        "C:\\18q39G6\\QMSGU3X7.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{S6R6-Q0YU40NF-9585HKCL}",
+        "04/07/2011 07:51:45",
+        "DKG0161",
+        "PC-9600"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-ASH0298.csv",
+    "rows": 69,
+    "kinds": {
+      "logon": 16,
+      "file": 37,
+      "email": 16
+    },
+    "actors": {
+      "ASH0298": 69
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{P6Y0-O6WK90YA-9489RVFG}",
+        "01/25/2011 17:50:14",
+        "ASH0298",
+        "PC-3696"
+      ],
+      [
+        "file",
+        "{X6L3-S7QN58VD-4150TBVX}",
+        "01/25/2011 17:52:12",
+        "ASH0298",
+        "PC-3696",
+        "C:\\58f83J6\\TPMVRJW4.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{T9L4-P1DC99ZY-4903ZUGP}",
+        "03/29/2011 10:59:30",
+        "ASH0298",
+        "PC-8752",
+        "C:\\WDXEN57V.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{R4X6-Q0AM08UH-0722HKJX}",
+        "03/29/2011 10:59:52",
+        "ASH0298",
+        "PC-8752",
+        "C:\\CPD0474\\I98XCM2I.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{X3I7-T7GO52IU-5297YJIF}",
+        "03/29/2011 11:01:07",
+        "ASH0298",
+        "PC-8752"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-OFS0030.csv",
+    "rows": 132,
+    "kinds": {
+      "logon": 28,
+      "file": 76,
+      "email": 28
+    },
+    "actors": {
+      "OFS0030": 132
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{I9N6-K0NC95ER-2367NODH}",
+        "07/26/2010 07:22:51",
+        "OFS0030",
+        "PC-3335"
+      ],
+      [
+        "file",
+        "{N6K1-I4HV03AY-9421VUYE}",
+        "07/26/2010 07:23:57",
+        "OFS0030",
+        "PC-3335",
+        "C:\\UMATEHLW.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{P2N4-N7JF08YU-7647OMKT}",
+        "10/04/2010 07:35:21",
+        "OFS0030",
+        "PC-6058",
+        "C:\\16jwPd0\\WTTGUD5C.zip",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{A9W4-C6SC26FN-8735ZAPZ}",
+        "10/04/2010 07:39:40",
+        "OFS0030",
+        "PC-6058",
+        "C:\\55Y7237\\DC2JKMNP.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{P6I8-W1HX05AX-6555ARAK}",
+        "10/04/2010 07:41:27",
+        "OFS0030",
+        "PC-6058"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-IRH1224.csv",
+    "rows": 124,
+    "kinds": {
+      "logon": 28,
+      "file": 68,
+      "email": 28
+    },
+    "actors": {
+      "IRH1224": 124
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{C8N2-E4NW32MG-9077PIDK}",
+        "02/05/2011 16:16:06",
+        "IRH1224",
+        "PC-8155"
+      ],
+      [
+        "file",
+        "{K8Q6-Y7HA12JA-3874VNMP}",
+        "02/05/2011 16:19:37",
+        "IRH1224",
+        "PC-8155",
+        "C:\\XMK1ZHML.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{A0K9-C6IO52GG-7934KAQX}",
+        "04/05/2011 18:24:18",
+        "IRH1224",
+        "PC-4935",
+        "C:\\62CBr41\\ZAY13ZJK.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{J6O6-O4PW75AT-1259BBFZ}",
+        "04/05/2011 18:25:04",
+        "IRH1224",
+        "PC-4935",
+        "C:\\62CBr41\\CGP8J9QN.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{J9D9-C4NV24PY-5276DGPJ}",
+        "04/05/2011 18:26:12",
+        "IRH1224",
+        "PC-4935"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-CGF1056.csv",
+    "rows": 64,
+    "kinds": {
+      "logon": 16,
+      "file": 32,
+      "email": 16
+    },
+    "actors": {
+      "CGF1056": 64
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{T8J6-J3MG93YB-1009BHMP}",
+        "03/11/2011 07:55:15",
+        "CGF1056",
+        "PC-3504"
+      ],
+      [
+        "file",
+        "{D1K3-N3VA93YU-2740MHYV}",
+        "03/11/2011 07:56:48",
+        "CGF1056",
+        "PC-3504",
+        "C:\\79x87C6\\QQCUR6Y5.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{C2R9-S1VH15SS-2202BNKN}",
+        "04/27/2011 11:47:04",
+        "CGF1056",
+        "PC-6499",
+        "C:\\QXGOZT4J.txt",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{N1Y0-P1RJ21XK-6579CEHX}",
+        "04/27/2011 11:47:31",
+        "CGF1056",
+        "PC-6499",
+        "C:\\HTM1498\\VR8B1V8K.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{U2A2-J6UK62PX-4176ITDI}",
+        "04/27/2011 11:51:13",
+        "CGF1056",
+        "PC-6499"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-MTP1582.csv",
+    "rows": 109,
+    "kinds": {
+      "logon": 26,
+      "email": 26,
+      "file": 57
+    },
+    "actors": {
+      "MTP1582": 109
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{P1B0-T4TF89MX-2908KXXD}",
+        "12/21/2010 19:21:12",
+        "MTP1582",
+        "PC-2128"
+      ],
+      [
+        "email",
+        "{B8B0-U6OS58MD-6359POWM}",
+        "12/21/2010 19:26:29",
+        "MTP1582",
+        "PC-2128",
+        "Porter_Maia@cox.net",
+        "",
+        "",
+        "Maia.Tasha.Porter@dtaa.com",
+        "Send",
+        "5638509",
+        "service.doc(63859);dogs.doc(1443485);probably.txt(300500);chin.doc(1005047);upper.doc(184207);successfully.zip(8678);resources.doc(307287);4.doc(568641);outside.zip(1729047)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{G3X7-G0SD40FC-9581HNJK}",
+        "03/17/2011 07:51:38",
+        "MTP1582",
+        "PC-7771",
+        "C:\\OUMKQHYB.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{B3V5-K8UO52AA-8394SBQD}",
+        "03/17/2011 07:51:47",
+        "MTP1582",
+        "PC-7771",
+        "C:\\KJH0872\\FPJ3GQUS.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{T9B2-A5HX41MR-2456ZQGB}",
+        "03/17/2011 07:52:55",
+        "MTP1582",
+        "PC-7771"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-OHS0036.csv",
+    "rows": 119,
+    "kinds": {
+      "logon": 28,
+      "file": 63,
+      "email": 28
+    },
+    "actors": {
+      "OHS0036": 119
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{T4Q1-F5DR21KH-6871EKVS}",
+        "04/16/2010 12:32:57",
+        "OHS0036",
+        "PC-2506"
+      ],
+      [
+        "file",
+        "{A8X1-Z9FE63JS-5833UAPW}",
+        "04/16/2010 12:36:01",
+        "OHS0036",
+        "PC-2506",
+        "C:\\742Gpz8\\RZYB94HN.pdf",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{Y6D2-U5US50RL-6407RXTP}",
+        "07/09/2010 10:29:46",
+        "OHS0036",
+        "PC-6620",
+        "Olga_H_Stuart@sbcglobal.net",
+        "",
+        "",
+        "Olga.Hanae.Stuart@dtaa.com",
+        "Send",
+        "757155",
+        "some.pdf(686398);together.pdf(49326)"
+      ],
+      [
+        "email",
+        "{U2L9-Z9NX63KI-3892LFQB}",
+        "07/09/2010 10:30:46",
+        "OHS0036",
+        "PC-8836",
+        "Olga_H_Stuart@sbcglobal.net",
+        "",
+        "",
+        "Olga.Hanae.Stuart@dtaa.com",
+        "Receive",
+        "757155",
+        "some.pdf(686398);together.pdf(49326)"
+      ],
+      [
+        "logon",
+        "{J7F8-T7GD34RM-0141GJET}",
+        "07/09/2010 10:32:40",
+        "OHS0036",
+        "PC-6620"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-ASH0458.csv",
+    "rows": 88,
+    "kinds": {
+      "logon": 20,
+      "file": 48,
+      "email": 20
+    },
+    "actors": {
+      "ASH0458": 88
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{L9C5-V9KC81PP-2772GBQM}",
+        "02/25/2011 07:40:32",
+        "ASH0458",
+        "PC-3608"
+      ],
+      [
+        "file",
+        "{H2K7-X4JH97ME-7914MMGJ}",
+        "02/25/2011 07:41:48",
+        "ASH0458",
+        "PC-3608",
+        "C:\\OT4Q4UTT.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{F8F0-O5XO79EQ-3141OPUU}",
+        "05/06/2011 12:55:56",
+        "ASH0458",
+        "PC-3674",
+        "C:\\15h3Tj4\\9JIWBJW4.txt",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{N9M3-B1HB74NA-3874BYYX}",
+        "05/06/2011 12:57:22",
+        "ASH0458",
+        "PC-3674",
+        "C:\\91FkB91\\FXG0JK3O.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{H6X0-C6DS43SK-6263YJMM}",
+        "05/06/2011 13:00:22",
+        "ASH0458",
+        "PC-3674"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-NKM1738.csv",
+    "rows": 125,
+    "kinds": {
+      "logon": 26,
+      "email": 26,
+      "file": 73
+    },
+    "actors": {
+      "NKM1738": 125
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{O6K8-K7XN97DQ-6283REFM}",
+        "02/23/2011 18:57:09",
+        "NKM1738",
+        "PC-0743"
+      ],
+      [
+        "email",
+        "{Z1I7-K2TF44AD-8094OFOI}",
+        "02/23/2011 19:02:20",
+        "NKM1738",
+        "PC-0743",
+        "Moore_Noelle@netzero.com",
+        "",
+        "",
+        "Noelle.Karyn.Moore@dtaa.com",
+        "Send",
+        "3034334",
+        "1967.pdf(250160);new.doc(1536899);succeeds.doc(1213045)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{E4D6-M7CG71DA-8593EAEY}",
+        "05/04/2011 18:04:32",
+        "NKM1738",
+        "PC-5261",
+        "Moore_Noelle@netzero.com",
+        "",
+        "",
+        "Noelle.Karyn.Moore@dtaa.com",
+        "Send",
+        "3966204",
+        "prusias.pdf(700370);erected.pdf(1042311);spoke.txt(2175187)"
+      ],
+      [
+        "email",
+        "{J8H6-L4GQ70DP-6265LMIM}",
+        "05/04/2011 18:05:32",
+        "NKM1738",
+        "PC-0903",
+        "Moore_Noelle@netzero.com",
+        "",
+        "",
+        "Noelle.Karyn.Moore@dtaa.com",
+        "Receive",
+        "3966204",
+        "prusias.pdf(700370);erected.pdf(1042311);spoke.txt(2175187)"
+      ],
+      [
+        "logon",
+        "{F8Z5-X5JT17TS-0352LWZP}",
+        "05/04/2011 18:07:15",
+        "NKM1738",
+        "PC-5261"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-WOS1834.csv",
+    "rows": 89,
+    "kinds": {
+      "logon": 18,
+      "email": 18,
+      "file": 53
+    },
+    "actors": {
+      "WOS1834": 89
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{S7V1-I4DQ91AD-5102TCKF}",
+        "12/29/2010 14:11:19",
+        "WOS1834",
+        "PC-5459"
+      ],
+      [
+        "email",
+        "{Q4X6-H5PO42GA-8672UJTE}",
+        "12/29/2010 14:17:22",
+        "WOS1834",
+        "PC-5459",
+        "William.O.Sykes@yahoo.com",
+        "",
+        "",
+        "William.Orson.Sykes@dtaa.com",
+        "Send",
+        "5197290",
+        "rae.pdf(423852);instead.doc(1519758);three.doc(1034343);side.doc(437765);show.doc(815923);nationally.zip(950151)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{S8L2-O7VU77HF-7783ZOYH}",
+        "03/14/2011 13:15:28",
+        "WOS1834",
+        "PC-1948",
+        "C:\\IBH1267\\GS71V72T.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "email",
+        "{F1K1-S5YZ10YD-0132BHTA}",
+        "03/14/2011 13:16:24",
+        "WOS1834",
+        "PC-7243",
+        "William.O.Sykes@yahoo.com",
+        "",
+        "",
+        "William.Orson.Sykes@dtaa.com",
+        "Receive",
+        "7681725",
+        "replies.doc(480748);declared.doc(1330303);privilege.pdf(714631);privilege.txt(1536123);point.doc(678653);hand.pdf(627948);declared.pdf(1193485);in.doc(783473);be.doc(317422)"
+      ],
+      [
+        "logon",
+        "{W8H8-K3EL29XV-1487WXRZ}",
+        "03/14/2011 13:20:06",
+        "WOS1834",
+        "PC-1948"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-ACM1770.csv",
+    "rows": 84,
+    "kinds": {
+      "logon": 18,
+      "email": 18,
+      "file": 48
+    },
+    "actors": {
+      "ACM1770": 84
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{T0H7-I8YA02BD-0971JMJW}",
+        "03/17/2011 17:18:29",
+        "ACM1770",
+        "PC-4728"
+      ],
+      [
+        "email",
+        "{S8C6-P1KT91OR-6386LMQK}",
+        "03/17/2011 17:19:52",
+        "ACM1770",
+        "PC-4728",
+        "Moreno-Ann@cox.net",
+        "",
+        "",
+        "Ann.Christine.Moreno@dtaa.com",
+        "Send",
+        "3620760",
+        "scrutiny.pdf(178262);negative.doc(630352);prestigious.zip(197417);attributed.doc(401166);negative1.doc(1655392);foundations.pdf(533890)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{H7G3-C3PM33YO-0892QHAW}",
+        "05/19/2011 08:45:12",
+        "ACM1770",
+        "PC-7441",
+        "C:\\KSREJJP8.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{B7T7-A5PM36KZ-1310BCAK}",
+        "05/19/2011 08:45:24",
+        "ACM1770",
+        "PC-7441",
+        "C:\\99n8v65\\NH5SKKP2.txt",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{W2C8-L6WR93EL-3762EDZQ}",
+        "05/19/2011 08:48:32",
+        "ACM1770",
+        "PC-7441"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-JCC0016.csv",
+    "rows": 104,
+    "kinds": {
+      "logon": 24,
+      "file": 56,
+      "email": 24
+    },
+    "actors": {
+      "JCC0016": 103,
+      "JIG1593": 1
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{A3Z3-Y6ZD41VF-8990HSQP}",
+        "11/02/2010 07:20:04",
+        "JCC0016",
+        "PC-0021"
+      ],
+      [
+        "file",
+        "{G7W9-Z6KV52FO-2598VZTP}",
+        "11/02/2010 07:21:39",
+        "JCC0016",
+        "PC-0021",
+        "C:\\76c4PT4\\AQIZ8PUB.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{D5O3-R9NT13FW-4174TDKQ}",
+        "01/27/2011 07:46:28",
+        "JCC0016",
+        "PC-5241",
+        "Jayme_C_Cohen@comcast.net",
+        "",
+        "",
+        "Jayme.Catherine.Cohen@dtaa.com",
+        "Receive",
+        "3797898",
+        "involved.jpg(1286763);much.doc(2301445);place.doc(174660)"
+      ],
+      [
+        "logon",
+        "{C0C9-Q5FS31YW-3785AILD}",
+        "01/27/2011 07:49:15",
+        "JCC0016",
+        "PC-2048"
+      ],
+      [
+        "file",
+        "{Y7M6-Z6WR17QM-2484RFYV}",
+        "03/22/2011 18:23:29",
+        "JIG1593",
+        "PC-5241",
+        "C:\\JCC0016\\DH1YNBTB.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-JNR1592.csv",
+    "rows": 149,
+    "kinds": {
+      "logon": 30,
+      "file": 89,
+      "email": 30
+    },
+    "actors": {
+      "JNR1592": 149
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{B3Z1-B4OY53YU-8364YVSD}",
+        "02/21/2011 08:38:46",
+        "JNR1592",
+        "PC-1477"
+      ],
+      [
+        "file",
+        "{J1Q8-D0NZ18ZY-6663FZLV}",
+        "02/21/2011 08:39:47",
+        "JNR1592",
+        "PC-1477",
+        "C:\\48K8167\\O1H7LAT8.pdf",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{N9K8-M6YU65UU-3587CBEE}",
+        "04/26/2011 07:28:21",
+        "JNR1592",
+        "PC-6574",
+        "JNR9@earthlink.net",
+        "",
+        "",
+        "Jacqueline.Nola.Robles@dtaa.com",
+        "Receive",
+        "7628796",
+        "anderson.doc(77041);anderson.pdf(76716);this.doc(1376741);walking.zip(223039);automatically.jpg(544550);11.doc(199287);can.doc(2226094);types.pdf(1530483);detritus.doc(475495);development.txt(870935)"
+      ],
+      [
+        "file",
+        "{A0S8-S6KF72YN-2739BNFI}",
+        "04/26/2011 07:35:35",
+        "JNR1592",
+        "PC-2850",
+        "C:\\31T19D6\\N9OABVTD.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{T7M2-L1FS07DP-2687SGAO}",
+        "04/26/2011 07:40:02",
+        "JNR1592",
+        "PC-2850"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-GCD0194.csv",
+    "rows": 71,
+    "kinds": {
+      "logon": 16,
+      "file": 39,
+      "email": 16
+    },
+    "actors": {
+      "GCD0194": 71
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{H9J6-P8HK60JU-9817LCXE}",
+        "02/03/2011 13:09:37",
+        "GCD0194",
+        "PC-6499"
+      ],
+      [
+        "file",
+        "{U3H4-G5WO42BW-1868XLFV}",
+        "02/03/2011 13:11:14",
+        "GCD0194",
+        "PC-6499",
+        "C:\\HTM1498\\09FVQY34.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{U0R1-O0GY57XN-8717TDXY}",
+        "03/07/2011 08:49:25",
+        "GCD0194",
+        "PC-1381",
+        "C:\\OWICNFMC.pdf",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{M8H8-Y5MJ17PU-4816SPEM}",
+        "03/07/2011 08:50:36",
+        "GCD0194",
+        "PC-1381",
+        "C:\\95vC2d2\\57IFVQQS.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{P4A0-Z3VQ63TM-1832NWMD}",
+        "03/07/2011 08:51:56",
+        "GCD0194",
+        "PC-1381"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-CPD1525.csv",
+    "rows": 115,
+    "kinds": {
+      "logon": 22,
+      "file": 71,
+      "email": 22
+    },
+    "actors": {
+      "CPD1525": 115
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{I9D4-Y4NZ54RT-8160IMRV}",
+        "01/31/2011 07:24:40",
+        "CPD1525",
+        "PC-9849"
+      ],
+      [
+        "file",
+        "{N8G9-F8CW76PX-4295ICRT}",
+        "01/31/2011 07:28:15",
+        "CPD1525",
+        "PC-9849",
+        "C:\\1SEB0FLD.doc",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "file",
+        "{H5V6-L4PP60XB-6355DJTK}",
+        "04/04/2011 18:23:11",
+        "CPD1525",
+        "PC-8251",
+        "C:\\BSY1451\\63QK6ILB.zip",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "file",
+        "{M1Z2-E6EX71CC-2507ZDMJ}",
+        "04/04/2011 18:27:50",
+        "CPD1525",
+        "PC-8251",
+        "C:\\T2UZ0YTE.doc",
+        "File Open",
+        "False",
+        "False"
+      ],
+      [
+        "logon",
+        "{S4J9-B2GZ89RW-9484OHOR}",
+        "04/04/2011 18:29:18",
+        "CPD1525",
+        "PC-8251"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-4/r5.2-4-JIG1593.csv",
+    "rows": 98,
+    "kinds": {
+      "logon": 20,
+      "file": 58,
+      "email": 20
+    },
+    "actors": {
+      "JIG1593": 98
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{I4J6-N0SM28QK-0858EOWW}",
+        "01/07/2011 07:25:29",
+        "JIG1593",
+        "PC-5891"
+      ],
+      [
+        "file",
+        "{S0E0-T2KD18SV-3193EDSW}",
+        "01/07/2011 07:29:57",
+        "JIG1593",
+        "PC-5891",
+        "C:\\EG9X5AFG.jpg",
+        "File Open",
+        "False",
+        "False"
+      ]
+    ],
+    "last_rows": [
+      [
+        "email",
+        "{D4Y9-L2NG00RJ-3841DUFB}",
+        "03/29/2011 08:07:11",
+        "JIG1593",
+        "PC-8916",
+        "Jael.I.Griffith@charter.net",
+        "",
+        "",
+        "Jael.Ifeoma.Griffith@dtaa.com",
+        "Send",
+        "8716335",
+        "dimitrios.doc(185576);choice.doc(1553628);70.doc(860517);declared.pdf(476395);ray.doc(1042904);incorporating.jpg(1440252);down.txt(1077998);conference.jpg(56161);down.doc(745360);prices.doc(1252592)"
+      ],
+      [
+        "email",
+        "{B3N4-W1WO53CV-2603PKPW}",
+        "03/29/2011 08:08:11",
+        "JIG1593",
+        "PC-3301",
+        "Jael.I.Griffith@charter.net",
+        "",
+        "",
+        "Jael.Ifeoma.Griffith@dtaa.com",
+        "Receive",
+        "8716335",
+        "dimitrios.doc(185576);choice.doc(1553628);70.doc(860517);declared.pdf(476395);ray.doc(1042904);incorporating.jpg(1440252);down.txt(1077998);conference.jpg(56161);down.doc(745360);prices.doc(1252592)"
+      ],
+      [
+        "logon",
+        "{D6X2-J9SW77BE-1300JYSI}",
+        "03/29/2011 08:08:45",
+        "JIG1593",
+        "PC-8916"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-CWW1120.csv",
+    "rows": 16,
+    "kinds": {
+      "email": 4,
+      "http": 2,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "CWW1120": 16
+    },
+    "first_rows": [
+      [
+        "email",
+        "{O4Z3-W0FS17TT-0785NOZA}",
+        "05/12/2011 07:49:54",
+        "CWW1120",
+        "PC-0617",
+        "Darrel.Naida.Walton@dtaa.com",
+        "",
+        "",
+        "Calvin.Wayne.Watson@dtaa.com",
+        "Send",
+        "962848",
+        "company will suffer.zip(937146)"
+      ],
+      [
+        "email",
+        "{T4U0-K5BI94XR-5549SXYB}",
+        "05/12/2011 09:27:09",
+        "CWW1120",
+        "PC-0617",
+        "Calvin.Wayne.Watson@dtaa.com",
+        "",
+        "",
+        "Darrel.Naida.Walton@dtaa.com",
+        "Receive",
+        "10680650",
+        "vacation.exe(2322810);rest.zip(1320115);rest.doc(1852008);lunch.doc(940821);good work.exe(574019);valued employee.exe(1530163);you are appreciated.txt(918012);good work.zip(1182425)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{R9X7-A5RL87MG-6048MWFH}",
+        "05/12/2011 19:04:18",
+        "CWW1120",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{K2L0-Y1AO02AR-4154DSZI}",
+        "05/13/2011 19:59:25",
+        "CWW1120",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{E1Y5-U6BZ10HX-2357CRKL}",
+        "05/13/2011 20:12:30",
+        "CWW1120",
+        "PC-1124"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-ACA1126.csv",
+    "rows": 19,
+    "kinds": {
+      "email": 4,
+      "http": 5,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "ACA1126": 19
+    },
+    "first_rows": [
+      [
+        "email",
+        "{V0J6-K4PU53TH-8479TKVG}",
+        "12/02/2010 08:44:43",
+        "ACA1126",
+        "PC-1737",
+        "Darrel.Naida.Walton@dtaa.com",
+        "",
+        "",
+        "Alma.Charissa.Atkins@dtaa.com",
+        "Send",
+        "610265",
+        "i work after-hours.jpg(569221)"
+      ],
+      [
+        "email",
+        "{P5V3-G9YP27CS-0790THXE}",
+        "12/02/2010 08:57:32",
+        "ACA1126",
+        "PC-1737",
+        "Alma.Charissa.Atkins@dtaa.com",
+        "",
+        "",
+        "Darrel.Naida.Walton@dtaa.com",
+        "Receive",
+        "1855657",
+        "vacation.exe(547681);hard job.pdf(1287571)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{N2Q5-N4ZU70EW-5810NBJR}",
+        "12/02/2010 20:35:39",
+        "ACA1126",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{F2S4-J9UR42HD-6833XKCG}",
+        "12/03/2010 18:01:31",
+        "ACA1126",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{F0R3-T4KX33IB-4975EXTP}",
+        "12/03/2010 18:13:56",
+        "ACA1126",
+        "PC-1124"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-VRP0267.csv",
+    "rows": 21,
+    "kinds": {
+      "email": 6,
+      "http": 5,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "VRP0267": 21
+    },
+    "first_rows": [
+      [
+        "email",
+        "{K0H7-O5YK34GK-9774GBWG}",
+        "08/05/2010 09:19:01",
+        "VRP0267",
+        "PC-5687",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "Valentine.Rigel.Preston@dtaa.com",
+        "",
+        "Valentine.Rigel.Preston@dtaa.com",
+        "Send",
+        "31162",
+        ""
+      ],
+      [
+        "email",
+        "{K8T8-Q5PV52MK-5998BUBN}",
+        "08/05/2010 09:20:01",
+        "VRP0267",
+        "PC-5687",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "Valentine.Rigel.Preston@dtaa.com",
+        "",
+        "Valentine.Rigel.Preston@dtaa.com",
+        "Receive",
+        "31162",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{R9O9-X1RR87LG-3616KBNP}",
+        "08/05/2010 22:00:16",
+        "VRP0267",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{F7J7-A4YH06AD-5979HEGB}",
+        "08/06/2010 20:04:07",
+        "VRP0267",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{W9W4-J6FW45ZD-9475CEIM}",
+        "08/06/2010 20:15:06",
+        "VRP0267",
+        "PC-8814"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-KCM0466.csv",
+    "rows": 17,
+    "kinds": {
+      "email": 4,
+      "http": 3,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "KCM0466": 17
+    },
+    "first_rows": [
+      [
+        "email",
+        "{M6F3-A9YN31LB-2722HMIE}",
+        "02/10/2011 09:43:58",
+        "KCM0466",
+        "PC-0251",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "",
+        "",
+        "Kimberley.Callie.Molina@dtaa.com",
+        "Send",
+        "26979",
+        ""
+      ],
+      [
+        "email",
+        "{W3H4-H4PO98PW-9579RSPZ}",
+        "02/10/2011 09:46:06",
+        "KCM0466",
+        "PC-0251",
+        "Kimberley.Callie.Molina@dtaa.com",
+        "",
+        "",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "Receive",
+        "22197",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{A5T2-G5XO46GW-0526DCTX}",
+        "02/10/2011 19:43:47",
+        "KCM0466",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{C7H1-L9OA63DQ-0415CSTN}",
+        "02/11/2011 18:14:55",
+        "KCM0466",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{Y6D2-L9UD12TN-4626FUAG}",
+        "02/11/2011 18:28:22",
+        "KCM0466",
+        "PC-0199"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-CRD0272.csv",
+    "rows": 18,
+    "kinds": {
+      "email": 6,
+      "http": 2,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "CRD0272": 18
+    },
+    "first_rows": [
+      [
+        "email",
+        "{I1N9-A9ND85QA-4730PGBE}",
+        "07/15/2010 10:53:12",
+        "CRD0272",
+        "PC-1626",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "",
+        "Cassady.Rachel.Daniels@dtaa.com",
+        "Cassady.Rachel.Daniels@dtaa.com",
+        "Send",
+        "30910",
+        ""
+      ],
+      [
+        "email",
+        "{J8O1-K6DU77WX-1945MZNX}",
+        "07/15/2010 10:54:12",
+        "CRD0272",
+        "PC-1626",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "",
+        "",
+        "Cassady.Rachel.Daniels@dtaa.com",
+        "Receive",
+        "30910",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{O7E4-M2GC56QB-4170TXHB}",
+        "07/15/2010 21:56:22",
+        "CRD0272",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{E8J5-N7RJ50ZT-8616ZTJL}",
+        "07/16/2010 20:29:30",
+        "CRD0272",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{O9Q2-V2UX29EO-2980RZFA}",
+        "07/16/2010 20:42:28",
+        "CRD0272",
+        "PC-8814"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-GKW0043.csv",
+    "rows": 18,
+    "kinds": {
+      "email": 4,
+      "http": 4,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "GKW0043": 18
+    },
+    "first_rows": [
+      [
+        "email",
+        "{U4D2-E3XH56CK-4992JSSY}",
+        "11/04/2010 09:33:45",
+        "GKW0043",
+        "PC-4118",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "",
+        "",
+        "Gage.Kieran.Warner@dtaa.com",
+        "Send",
+        "668376",
+        "my work not appreciated.pdf(637670)"
+      ],
+      [
+        "email",
+        "{R9V0-W2CY63CA-8355XITO}",
+        "11/04/2010 10:10:26",
+        "GKW0043",
+        "PC-4118",
+        "Gage.Kieran.Warner@dtaa.com",
+        "",
+        "",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "Receive",
+        "30090",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{I4A8-G0SF44GI-6363ZCBQ}",
+        "11/04/2010 18:58:14",
+        "GKW0043",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{Z3E5-H5VY64NL-7720OQBA}",
+        "11/05/2010 18:45:48",
+        "GKW0043",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{Y2E7-S4ZK25EA-7226WXBQ}",
+        "11/05/2010 18:57:06",
+        "GKW0043",
+        "PC-0199"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-LAH0463.csv",
+    "rows": 15,
+    "kinds": {
+      "email": 4,
+      "http": 1,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "LAH0463": 15
+    },
+    "first_rows": [
+      [
+        "email",
+        "{Q5Q7-X1SD26EH-8998MPGE}",
+        "05/05/2011 09:24:47",
+        "LAH0463",
+        "PC-2749",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "",
+        "",
+        "Lesley.Aiko.Holloway@dtaa.com",
+        "Send",
+        "25734",
+        ""
+      ],
+      [
+        "email",
+        "{L1D1-Q6IF19JP-1747VEXS}",
+        "05/05/2011 11:13:56",
+        "LAH0463",
+        "PC-2749",
+        "Lesley.Aiko.Holloway@dtaa.com",
+        "",
+        "",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "Receive",
+        "25247",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{K0E0-A2KQ54LV-5928JFQO}",
+        "05/05/2011 20:29:25",
+        "LAH0463",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{D1G2-E1MT15AC-8719TQFZ}",
+        "05/06/2011 18:38:05",
+        "LAH0463",
+        "PC-0199"
+      ],
+      [
+        "logon",
+        "{X4O9-U4XA96TV-3739ISHK}",
+        "05/06/2011 18:52:11",
+        "LAH0463",
+        "PC-0199"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-ELM1123.csv",
+    "rows": 20,
+    "kinds": {
+      "email": 6,
+      "http": 4,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "ELM1123": 20
+    },
+    "first_rows": [
+      [
+        "email",
+        "{W9U6-Y3RG25BZ-0174DCAK}",
+        "10/14/2010 09:22:38",
+        "ELM1123",
+        "PC-3126",
+        "Darrel.Naida.Walton@dtaa.com",
+        "",
+        "Evangeline.Lysandra.Mcconnell@dtaa.com",
+        "Evangeline.Lysandra.Mcconnell@dtaa.com",
+        "Send",
+        "669776",
+        "i may leave.pdf(628104)"
+      ],
+      [
+        "email",
+        "{B5E4-W6AT31IP-3941ABFN}",
+        "10/14/2010 09:23:38",
+        "ELM1123",
+        "PC-3126",
+        "Darrel.Naida.Walton@dtaa.com",
+        "",
+        "",
+        "Evangeline.Lysandra.Mcconnell@dtaa.com",
+        "Receive",
+        "669776",
+        "i may leave.pdf(628104)"
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{Y2Z6-B2IJ27RQ-4508SOPZ}",
+        "10/14/2010 20:54:12",
+        "ELM1123",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{M4H4-V9FD38FU-8277ZDHP}",
+        "10/15/2010 18:59:43",
+        "ELM1123",
+        "PC-1124"
+      ],
+      [
+        "logon",
+        "{C1F8-U5VR74EF-3287HPBQ}",
+        "10/15/2010 19:09:55",
+        "ELM1123",
+        "PC-1124"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-MPF0690.csv",
+    "rows": 16,
+    "kinds": {
+      "email": 4,
+      "http": 2,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "MPF0690": 16
+    },
+    "first_rows": [
+      [
+        "email",
+        "{F4O9-K6CC55TJ-0107JVXL}",
+        "06/17/2010 10:00:38",
+        "MPF0690",
+        "PC-1140",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "",
+        "",
+        "Mara.Priscilla.Farrell@dtaa.com",
+        "Send",
+        "30860",
+        ""
+      ],
+      [
+        "email",
+        "{K2R1-W3HV72NJ-4082RNHN}",
+        "06/17/2010 13:18:01",
+        "MPF0690",
+        "PC-1140",
+        "Mara.Priscilla.Farrell@dtaa.com",
+        "",
+        "",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "Receive",
+        "21902",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{S3K8-U1AF53KD-6424MURI}",
+        "06/17/2010 19:52:49",
+        "MPF0690",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{X3U6-M7WN96YE-0712MYVB}",
+        "06/18/2010 20:08:44",
+        "MPF0690",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{J1L0-E6LR97QS-9568JPZX}",
+        "06/18/2010 20:22:06",
+        "MPF0690",
+        "PC-8814"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-3/r5.2-3-ZEH0685.csv",
+    "rows": 24,
+    "kinds": {
+      "email": 4,
+      "http": 10,
+      "device": 4,
+      "file": 2,
+      "logon": 4
+    },
+    "actors": {
+      "ZEH0685": 24
+    },
+    "first_rows": [
+      [
+        "email",
+        "{E6M0-S9VB28TR-5886COHO}",
+        "03/31/2011 08:08:27",
+        "ZEH0685",
+        "PC-7195",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "",
+        "",
+        "Zoe.Ebony.Henry@dtaa.com",
+        "Send",
+        "38095",
+        ""
+      ],
+      [
+        "email",
+        "{X9L5-E5ZD70LG-2559HPIB}",
+        "03/31/2011 13:47:04",
+        "ZEH0685",
+        "PC-7195",
+        "Zoe.Ebony.Henry@dtaa.com",
+        "",
+        "",
+        "Jessica.Jeanette.Cline@dtaa.com",
+        "Receive",
+        "19227",
+        ""
+      ]
+    ],
+    "last_rows": [
+      [
+        "logon",
+        "{T7E8-F7OS80LJ-7045XGRW}",
+        "03/31/2011 21:43:27",
+        "ZEH0685",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{Z7U5-G0FR11PL-3908FEGJ}",
+        "04/01/2011 21:10:11",
+        "ZEH0685",
+        "PC-8814"
+      ],
+      [
+        "logon",
+        "{Q6T0-U5TM37IK-1717ERAJ}",
+        "04/01/2011 21:25:08",
+        "ZEH0685",
+        "PC-8814"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-MIB0203.csv",
+    "rows": 14,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 4,
+      "http": 2
+    },
+    "actors": {
+      "MIB0203": 14
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{B5S9-G8DE27CG-1696HJHY}",
+        "10/13/2010 23:51:44",
+        "MIB0203",
+        "PC-7322"
+      ],
+      [
+        "device",
+        "{X0C9-L5OB22BE-1845ZWRS}",
+        "10/14/2010 03:13:07",
+        "MIB0203",
+        "PC-7322",
+        "R:\\;R:\\MIB0203;R:\\63fM733;R:\\17KvJM0;R:\\47lX8h2;R:\\33yjTs0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{J2I5-V0IX18AS-5743AEUX}",
+        "10/19/2010 02:38:46",
+        "MIB0203",
+        "PC-7322",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{T2N3-W4TN04ZJ-0176KXUN}",
+        "10/19/2010 02:42:28",
+        "MIB0203",
+        "PC-7322",
+        ""
+      ],
+      [
+        "logon",
+        "{X8C2-D5LO01OL-5389RVNR}",
+        "10/19/2010 02:45:24",
+        "MIB0203",
+        "PC-7322"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ISW0738.csv",
+    "rows": 17,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 7,
+      "http": 2
+    },
+    "actors": {
+      "ISW0738": 17
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{B5U5-I8OV92HM-7734VMYQ}",
+        "10/27/2010 21:38:38",
+        "ISW0738",
+        "PC-7049"
+      ],
+      [
+        "device",
+        "{Z1L8-G3KU87MD-6912HXYI}",
+        "10/28/2010 00:53:39",
+        "ISW0738",
+        "PC-7049",
+        "R:\\;R:\\ISW0738;R:\\352PTb8;R:\\88dQ383;R:\\32Y6167;R:\\13Xkhv0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{B1W8-Y5UN55GC-0715IRIA}",
+        "11/03/2010 06:58:58",
+        "ISW0738",
+        "PC-7049",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{O4J0-Z9HX17BA-2176NGQP}",
+        "11/03/2010 07:00:17",
+        "ISW0738",
+        "PC-7049",
+        ""
+      ],
+      [
+        "logon",
+        "{W1O3-A5FF21GZ-7199EEUK}",
+        "11/03/2010 07:01:27",
+        "ISW0738",
+        "PC-7049"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-TMC0934.csv",
+    "rows": 24,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 9,
+      "http": 3
+    },
+    "actors": {
+      "TMC0934": 24
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{F8F2-R5KG30NC-0159ABYA}",
+        "02/17/2011 06:53:38",
+        "TMC0934",
+        "PC-7540"
+      ],
+      [
+        "device",
+        "{I6G6-T8NZ90DQ-6922OFXN}",
+        "02/17/2011 06:58:36",
+        "TMC0934",
+        "PC-7540",
+        "R:\\;R:\\TMC0934"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{E6I6-G0BB69MB-7462HHOD}",
+        "02/22/2011 20:58:59",
+        "TMC0934",
+        "PC-7540",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{I3B0-L9UP65AL-4101NZNC}",
+        "02/22/2011 21:00:01",
+        "TMC0934",
+        "PC-7540",
+        ""
+      ],
+      [
+        "logon",
+        "{U5C0-B9LY27ID-2912LRUX}",
+        "02/22/2011 21:01:13",
+        "TMC0934",
+        "PC-7540"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-DNJ0740.csv",
+    "rows": 9,
+    "kinds": {
+      "logon": 2,
+      "device": 2,
+      "file": 4,
+      "http": 1
+    },
+    "actors": {
+      "DNJ0740": 9
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{N6N0-Q4JK06CG-7382LEHV}",
+        "10/04/2010 19:56:42",
+        "DNJ0740",
+        "PC-5669"
+      ],
+      [
+        "device",
+        "{O4D3-R8IR59GB-8309QKKD}",
+        "10/04/2010 23:12:55",
+        "DNJ0740",
+        "PC-5669",
+        "R:\\;R:\\DNJ0740;R:\\84LYDb0;R:\\55l7Qw4"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{N1V1-M1RI04AI-2919NENF}",
+        "10/05/2010 00:53:53",
+        "DNJ0740",
+        "PC-5669",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{A8T5-G9AD82RW-6510ONBQ}",
+        "10/05/2010 00:58:05",
+        "DNJ0740",
+        "PC-5669",
+        ""
+      ],
+      [
+        "logon",
+        "{U9A6-J7EH62CE-7356IODN}",
+        "10/05/2010 01:01:37",
+        "DNJ0740",
+        "PC-5669"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-KEW0198.csv",
+    "rows": 21,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 6,
+      "http": 3
+    },
+    "actors": {
+      "KEW0198": 21
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{F7W0-Z8XU57AM-3180HJNR}",
+        "07/07/2010 18:50:50",
+        "KEW0198",
+        "PC-5617"
+      ],
+      [
+        "device",
+        "{R8H1-K7VG01WJ-6476QTIB}",
+        "07/07/2010 19:07:28",
+        "KEW0198",
+        "PC-5617",
+        "R:\\;R:\\KEW0198;R:\\653rjQ8;R:\\168KP29;R:\\55thc51;R:\\82Mhmp0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{H8B2-F9MD08JN-4117VNNQ}",
+        "07/14/2010 06:18:10",
+        "KEW0198",
+        "PC-5617",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{S4I7-K4OT10CH-0709NCGV}",
+        "07/14/2010 06:24:56",
+        "KEW0198",
+        "PC-5617",
+        ""
+      ],
+      [
+        "logon",
+        "{B2W8-X1DR14KQ-6871XERG}",
+        "07/14/2010 06:27:14",
+        "KEW0198",
+        "PC-5617"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-EPG1196.csv",
+    "rows": 15,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 5,
+      "http": 2
+    },
+    "actors": {
+      "EPG1196": 15
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{H0A4-D0OA20UG-2632JYYK}",
+        "07/15/2010 03:00:42",
+        "EPG1196",
+        "PC-8943"
+      ],
+      [
+        "device",
+        "{S3H4-Y8HN45ZF-4130DRFL}",
+        "07/15/2010 05:34:05",
+        "EPG1196",
+        "PC-8943",
+        "R:\\;R:\\EPG1196"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{Y8U6-Q1GL29SY-4980OKXF}",
+        "07/20/2010 00:06:59",
+        "EPG1196",
+        "PC-8943",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{A6G2-P5IR88DW-8645HMPJ}",
+        "07/20/2010 00:14:03",
+        "EPG1196",
+        "PC-8943",
+        ""
+      ],
+      [
+        "logon",
+        "{I8K1-Q4TX72YU-1559LETP}",
+        "07/20/2010 00:19:48",
+        "EPG1196",
+        "PC-8943"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-PBC0077.csv",
+    "rows": 25,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 10,
+      "http": 3
+    },
+    "actors": {
+      "PBC0077": 25
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{P6O7-O7QM00CD-3415VLOL}",
+        "07/22/2010 02:04:28",
+        "PBC0077",
+        "PC-7035"
+      ],
+      [
+        "device",
+        "{W5X1-J5QJ90UA-2202CRJK}",
+        "07/22/2010 02:54:33",
+        "PBC0077",
+        "PC-7035",
+        "R:\\;R:\\PBC0077;R:\\48B4497;R:\\61M8987;R:\\23nQtb0;R:\\36wccx0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{C6N7-U3UV31DB-2298PWQK}",
+        "07/31/2010 02:20:15",
+        "PBC0077",
+        "PC-7035",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{J3G1-L1OY23EH-6806ZTRF}",
+        "07/31/2010 02:22:38",
+        "PBC0077",
+        "PC-7035",
+        ""
+      ],
+      [
+        "logon",
+        "{W1H9-V7DB92OH-3372LVCS}",
+        "07/31/2010 02:28:03",
+        "PBC0077",
+        "PC-7035"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-JKB0287.csv",
+    "rows": 17,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 7,
+      "http": 2
+    },
+    "actors": {
+      "JKB0287": 17
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{W7Q2-X4FT04VF-2571QIAY}",
+        "09/09/2010 02:50:22",
+        "JKB0287",
+        "PC-4790"
+      ],
+      [
+        "device",
+        "{Z1M0-O5JM71ZW-5306DNDL}",
+        "09/09/2010 04:32:38",
+        "JKB0287",
+        "PC-4790",
+        "R:\\;R:\\JKB0287;R:\\16f6527;R:\\699HMV8;R:\\91yJ6L2"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{Q0V2-C4XN11YU-2404VBDW}",
+        "09/15/2010 01:16:21",
+        "JKB0287",
+        "PC-4790",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{F8B6-W6IU05PV-8240AATE}",
+        "09/15/2010 01:49:46",
+        "JKB0287",
+        "PC-4790",
+        ""
+      ],
+      [
+        "logon",
+        "{G8F9-M9OV04RD-5226HPNU}",
+        "09/15/2010 02:29:40",
+        "JKB0287",
+        "PC-4790"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ZKP0542.csv",
+    "rows": 18,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 8,
+      "http": 2
+    },
+    "actors": {
+      "ZKP0542": 18
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{V9A7-P0BN05GT-3957EMIV}",
+        "01/12/2011 20:00:15",
+        "ZKP0542",
+        "PC-2083"
+      ],
+      [
+        "device",
+        "{R6W7-A8AL04GA-5805PJSY}",
+        "01/12/2011 20:09:12",
+        "ZKP0542",
+        "PC-2083",
+        "R:\\;R:\\ZKP0542;R:\\57Vl3S2;R:\\52N7xr4;R:\\38v2d75;R:\\97RDyp0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{Y3O9-Z4LK55UY-4124ODFO}",
+        "01/15/2011 04:13:34",
+        "ZKP0542",
+        "PC-2083",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{M0H5-A7MZ87DP-4421TOKH}",
+        "01/15/2011 04:14:36",
+        "ZKP0542",
+        "PC-2083",
+        ""
+      ],
+      [
+        "logon",
+        "{I5Y8-V6EV82RO-6701FJSB}",
+        "01/15/2011 04:17:00",
+        "ZKP0542",
+        "PC-2083"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-FZG0389.csv",
+    "rows": 17,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 7,
+      "http": 2
+    },
+    "actors": {
+      "FZG0389": 17
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{E5T1-O5LJ39SS-8237HUYS}",
+        "12/10/2010 21:50:34",
+        "FZG0389",
+        "PC-5151"
+      ],
+      [
+        "device",
+        "{Y2S0-T3ZM05FD-0566VAZF}",
+        "12/10/2010 22:50:13",
+        "FZG0389",
+        "PC-5151",
+        "R:\\;R:\\FZG0389;R:\\149xp79;R:\\442Xdn8;R:\\31tQ813"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{T4R6-U7IW13TR-0178ZEUY}",
+        "12/17/2010 06:49:42",
+        "FZG0389",
+        "PC-5151",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{W3W5-L5OY17MU-4876LNGR}",
+        "12/17/2010 06:51:28",
+        "FZG0389",
+        "PC-5151",
+        ""
+      ],
+      [
+        "logon",
+        "{E0P8-P7UO34TX-7117OMRH}",
+        "12/17/2010 06:53:00",
+        "FZG0389",
+        "PC-5151"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-SLL0193.csv",
+    "rows": 16,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 6,
+      "http": 2
+    },
+    "actors": {
+      "SLL0193": 16
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{W8Q5-T7ZR37PT-5172UUYZ}",
+        "08/27/2010 18:57:31",
+        "SLL0193",
+        "PC-9055"
+      ],
+      [
+        "device",
+        "{P5V7-E5UN17SZ-8280YQKW}",
+        "08/27/2010 19:03:17",
+        "SLL0193",
+        "PC-9055",
+        "R:\\;R:\\SLL0193;R:\\42LL583;R:\\917lW59;R:\\68qrg41;R:\\22WzBL0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{V7W0-O7JJ03KB-3443CXLT}",
+        "09/03/2010 00:18:15",
+        "SLL0193",
+        "PC-9055",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{I1G2-Y3PQ71KD-5744JQPM}",
+        "09/03/2010 00:21:24",
+        "SLL0193",
+        "PC-9055",
+        ""
+      ],
+      [
+        "logon",
+        "{Z7J0-Y9MD69GJ-7380GMYQ}",
+        "09/03/2010 00:24:08",
+        "SLL0193",
+        "PC-9055"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-IHC0561.csv",
+    "rows": 22,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 7,
+      "http": 3
+    },
+    "actors": {
+      "IHC0561": 22
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{E4W3-D0PM74UI-6772FQDV}",
+        "09/02/2010 06:10:00",
+        "IHC0561",
+        "PC-1902"
+      ],
+      [
+        "device",
+        "{L2S6-F4HY85TW-6278BDBE}",
+        "09/02/2010 07:33:18",
+        "IHC0561",
+        "PC-1902",
+        "R:\\;R:\\IHC0561;R:\\14lFj71;R:\\94J96n6;R:\\31v4x15;R:\\31ngPT0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{L4Z4-C4VX82IH-6702WJMP}",
+        "09/10/2010 08:22:14",
+        "IHC0561",
+        "PC-1902",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{M5M1-W0CR13ZI-7946GXBP}",
+        "09/10/2010 08:23:41",
+        "IHC0561",
+        "PC-1902",
+        ""
+      ],
+      [
+        "logon",
+        "{S9B8-V7NJ24WW-9542CRMU}",
+        "09/10/2010 08:28:40",
+        "IHC0561",
+        "PC-1902"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ELT1370.csv",
+    "rows": 14,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 4,
+      "http": 2
+    },
+    "actors": {
+      "ELT1370": 14
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{L9O0-V6NE61TL-3787WCSZ}",
+        "02/03/2011 18:23:53",
+        "ELT1370",
+        "PC-1929"
+      ],
+      [
+        "device",
+        "{O3I2-V2TI61SQ-1782RAIL}",
+        "02/04/2011 00:11:27",
+        "ELT1370",
+        "PC-1929",
+        "R:\\;R:\\ELT1370;R:\\54rhDy0;R:\\17Q5377"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{X5M2-Z2MJ89VH-0474UCGS}",
+        "02/10/2011 02:24:15",
+        "ELT1370",
+        "PC-1929",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{H4R3-F6QE68GJ-7378OQZG}",
+        "02/10/2011 02:34:33",
+        "ELT1370",
+        "PC-1929",
+        ""
+      ],
+      [
+        "logon",
+        "{C5P6-T1GR09RL-0434PONS}",
+        "02/10/2011 02:58:28",
+        "ELT1370",
+        "PC-1929"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-JUP1472.csv",
+    "rows": 24,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 9,
+      "http": 3
+    },
+    "actors": {
+      "JUP1472": 24
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{O6S0-C8MR80JY-5672QPLD}",
+        "02/11/2011 22:17:37",
+        "JUP1472",
+        "PC-5422"
+      ],
+      [
+        "device",
+        "{X8D0-Z4SE05EF-4087DPLQ}",
+        "02/11/2011 22:23:57",
+        "JUP1472",
+        "PC-5422",
+        "R:\\;R:\\JUP1472;R:\\45Tl9s2;R:\\93Y6927;R:\\92N7KC4;R:\\53jKy61"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{G2B6-E6GD33WH-8029ZGPQ}",
+        "02/19/2011 04:13:22",
+        "JUP1472",
+        "PC-5422",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{C1L7-Y3TC81DH-4599ASYQ}",
+        "02/19/2011 04:14:30",
+        "JUP1472",
+        "PC-5422",
+        ""
+      ],
+      [
+        "logon",
+        "{Q0A1-H7YR03ZO-3124RFBC}",
+        "02/19/2011 04:15:38",
+        "JUP1472",
+        "PC-5422"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-AYG1697.csv",
+    "rows": 8,
+    "kinds": {
+      "logon": 2,
+      "device": 2,
+      "file": 3,
+      "http": 1
+    },
+    "actors": {
+      "AYG1697": 8
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{Y9Z5-W5NS78XN-5319SSFZ}",
+        "10/25/2010 23:19:22",
+        "AYG1697",
+        "PC-0856"
+      ],
+      [
+        "device",
+        "{R4D3-I9IM60ND-2449UEDQ}",
+        "10/25/2010 23:29:06",
+        "AYG1697",
+        "PC-0856",
+        "R:\\;R:\\AYG1697;R:\\35x4457;R:\\711mG39;R:\\16t52K6;R:\\16Nqk41"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{X1O5-B7GG14MH-0516GNBR}",
+        "10/26/2010 00:04:25",
+        "AYG1697",
+        "PC-0856",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{O7Y3-Q4FX83TK-3130ZLVL}",
+        "10/26/2010 00:05:28",
+        "AYG1697",
+        "PC-0856",
+        ""
+      ],
+      [
+        "logon",
+        "{H9M0-G5LA33PV-4162SMUJ}",
+        "10/26/2010 00:06:28",
+        "AYG1697",
+        "PC-0856"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-SAF1942.csv",
+    "rows": 13,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 3,
+      "http": 2
+    },
+    "actors": {
+      "SAF1942": 13
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{S3W6-N2DE12XQ-5740SMSN}",
+        "07/21/2010 00:37:49",
+        "SAF1942",
+        "PC-0709"
+      ],
+      [
+        "device",
+        "{G8E5-T2KD93BG-3418DTWX}",
+        "07/21/2010 01:14:11",
+        "SAF1942",
+        "PC-0709",
+        "R:\\;R:\\SAF1942;R:\\94wy4T2"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{V0A1-Z5IQ60LM-9234YKID}",
+        "07/23/2010 02:10:00",
+        "SAF1942",
+        "PC-0709",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{E4D4-N7UM81SO-3693TEKL}",
+        "07/23/2010 02:11:02",
+        "SAF1942",
+        "PC-0709",
+        ""
+      ],
+      [
+        "logon",
+        "{Z4O8-D1VP38AO-8878FUVO}",
+        "07/23/2010 02:12:05",
+        "SAF1942",
+        "PC-0709"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-WHB1247.csv",
+    "rows": 13,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 3,
+      "http": 2
+    },
+    "actors": {
+      "WHB1247": 13
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{Q6B4-O9EC17YB-6004KZIJ}",
+        "02/14/2011 21:50:42",
+        "WHB1247",
+        "PC-3853"
+      ],
+      [
+        "device",
+        "{R4Z5-V4DD14ZB-9460YJXL}",
+        "02/14/2011 22:12:45",
+        "WHB1247",
+        "PC-3853",
+        "R:\\;R:\\WHB1247"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{Q3T9-U9IT17SH-4255FJVY}",
+        "02/19/2011 01:02:38",
+        "WHB1247",
+        "PC-3853",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{I8Q6-Y5EB81OB-1901ZVSA}",
+        "02/19/2011 01:05:52",
+        "WHB1247",
+        "PC-3853",
+        ""
+      ],
+      [
+        "logon",
+        "{X1P6-U6RO30TE-9821BYSH}",
+        "02/19/2011 01:07:48",
+        "WHB1247",
+        "PC-3853"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ALT1465.csv",
+    "rows": 13,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 3,
+      "http": 2
+    },
+    "actors": {
+      "ALT1465": 13
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{P2W1-C6NJ88YS-2909NGZE}",
+        "08/13/2010 22:16:10",
+        "ALT1465",
+        "PC-3407"
+      ],
+      [
+        "device",
+        "{C4E8-U7VA71XB-2459TEID}",
+        "08/14/2010 04:14:02",
+        "ALT1465",
+        "PC-3407",
+        "R:\\;R:\\ALT1465"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{M6P3-J1RX14LO-9872PEIX}",
+        "08/20/2010 03:48:04",
+        "ALT1465",
+        "PC-3407",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{J4W9-J7EG27HB-0380MXVN}",
+        "08/20/2010 03:59:34",
+        "ALT1465",
+        "PC-3407",
+        ""
+      ],
+      [
+        "logon",
+        "{R3O3-R8QX66KC-2147JMAJ}",
+        "08/20/2010 04:01:32",
+        "ALT1465",
+        "PC-3407"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-WWW0701.csv",
+    "rows": 12,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 2,
+      "http": 2
+    },
+    "actors": {
+      "WWW0701": 12
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{G4R7-L9KF53OD-7187SJXT}",
+        "03/23/2011 06:54:24",
+        "WWW0701",
+        "PC-6092"
+      ],
+      [
+        "device",
+        "{O7W3-I1PK91ES-6155QBUO}",
+        "03/23/2011 07:03:38",
+        "WWW0701",
+        "PC-6092",
+        "R:\\;R:\\WWW0701;R:\\99CfG61;R:\\62zdxm0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{C7E2-Q7PE30KX-9652XKMM}",
+        "03/30/2011 05:22:56",
+        "WWW0701",
+        "PC-6092",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{G8O1-R8JO74QL-2507UDEZ}",
+        "03/30/2011 05:36:45",
+        "WWW0701",
+        "PC-6092",
+        ""
+      ],
+      [
+        "logon",
+        "{E3M5-W0JM77SV-1723ZWLU}",
+        "03/30/2011 05:40:52",
+        "WWW0701",
+        "PC-6092"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ETW0002.csv",
+    "rows": 6,
+    "kinds": {
+      "logon": 2,
+      "device": 2,
+      "file": 1,
+      "http": 1
+    },
+    "actors": {
+      "ETW0002": 6
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{O5I8-E4HC79UZ-0016WQOZ}",
+        "03/17/2011 00:59:27",
+        "ETW0002",
+        "PC-6592"
+      ],
+      [
+        "device",
+        "{R0C1-D1QW48WC-5665EJPD}",
+        "03/17/2011 05:58:49",
+        "ETW0002",
+        "PC-6592",
+        "R:\\;R:\\ETW0002"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{V2M2-V3PZ22ZV-8005KBHI}",
+        "03/17/2011 06:45:54",
+        "ETW0002",
+        "PC-6592",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{K7V3-A8UJ19KM-3638LRVG}",
+        "03/17/2011 06:48:41",
+        "ETW0002",
+        "PC-6592",
+        ""
+      ],
+      [
+        "logon",
+        "{R3T6-L1NX61KN-6883EVLJ}",
+        "03/17/2011 06:52:18",
+        "ETW0002",
+        "PC-6592"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-KBC1390.csv",
+    "rows": 23,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 8,
+      "http": 3
+    },
+    "actors": {
+      "KBC1390": 23
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{O1Y4-Y2BO60LM-4374JUOR}",
+        "07/16/2010 02:18:07",
+        "KBC1390",
+        "PC-5496"
+      ],
+      [
+        "device",
+        "{L7T3-C8YJ95YY-3332DZKX}",
+        "07/16/2010 02:19:13",
+        "KBC1390",
+        "PC-5496",
+        "R:\\;R:\\KBC1390;R:\\64lVDS0;R:\\774MR89"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{L5Z1-C0IG36DT-4478RSFF}",
+        "07/22/2010 00:38:49",
+        "KBC1390",
+        "PC-5496",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{G8V1-C0MG83QP-7675NEXV}",
+        "07/22/2010 00:44:32",
+        "KBC1390",
+        "PC-5496",
+        ""
+      ],
+      [
+        "logon",
+        "{P9K3-W7VE57NK-7715WKML}",
+        "07/22/2010 00:50:53",
+        "KBC1390",
+        "PC-5496"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-DAS1320.csv",
+    "rows": 15,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 5,
+      "http": 2
+    },
+    "actors": {
+      "DAS1320": 15
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{V9Q6-Q7UQ73NT-7046KHZA}",
+        "07/09/2010 01:14:15",
+        "DAS1320",
+        "PC-9196"
+      ],
+      [
+        "device",
+        "{T0M4-O4HD96IX-1975RWQC}",
+        "07/09/2010 01:31:01",
+        "DAS1320",
+        "PC-9196",
+        "R:\\;R:\\DAS1320"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{A0D9-A4JP40AM-4455HQFD}",
+        "07/15/2010 01:34:16",
+        "DAS1320",
+        "PC-9196",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{U0N2-Z2YA96YR-5445YSUC}",
+        "07/15/2010 01:35:57",
+        "DAS1320",
+        "PC-9196",
+        ""
+      ],
+      [
+        "logon",
+        "{X8T7-R2FF11PT-3035RZRM}",
+        "07/15/2010 01:38:58",
+        "DAS1320",
+        "PC-9196"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-PTH0005.csv",
+    "rows": 13,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 3,
+      "http": 2
+    },
+    "actors": {
+      "PTH0005": 13
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{U4T0-K1QX21FS-2451CBPM}",
+        "01/31/2011 22:25:29",
+        "PTH0005",
+        "PC-8267"
+      ],
+      [
+        "device",
+        "{N5V8-V5UN74BX-7510SPXU}",
+        "01/31/2011 22:28:48",
+        "PTH0005",
+        "PC-8267",
+        "R:\\;R:\\PTH0005;R:\\49r7C45;R:\\33nDYR0;R:\\71zdlQ0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{N6T5-Q3GH79DU-1863OVWD}",
+        "02/04/2011 05:39:39",
+        "PTH0005",
+        "PC-8267",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{Y0W7-G3WM50TV-5591UOWQ}",
+        "02/04/2011 05:40:47",
+        "PTH0005",
+        "PC-8267",
+        ""
+      ],
+      [
+        "logon",
+        "{I3L9-W0JC37XF-8940LRKY}",
+        "02/04/2011 05:42:33",
+        "PTH0005",
+        "PC-8267"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-GFM1815.csv",
+    "rows": 7,
+    "kinds": {
+      "logon": 2,
+      "device": 2,
+      "file": 2,
+      "http": 1
+    },
+    "actors": {
+      "GFM1815": 7
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{L8N4-M7JH77EF-2209AWYK}",
+        "07/16/2010 22:00:57",
+        "GFM1815",
+        "PC-5183"
+      ],
+      [
+        "device",
+        "{Z2T6-Z8ES22YW-3879CCIW}",
+        "07/16/2010 22:36:50",
+        "GFM1815",
+        "PC-5183",
+        "R:\\;R:\\GFM1815;R:\\72V6x25;R:\\79XfJ61;R:\\541ytZ8"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{V4X9-L7VB12IB-0424NAWT}",
+        "07/16/2010 22:56:36",
+        "GFM1815",
+        "PC-5183",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{M3A5-N4OK52FI-9826DMCW}",
+        "07/16/2010 23:00:23",
+        "GFM1815",
+        "PC-5183",
+        ""
+      ],
+      [
+        "logon",
+        "{L5Z5-A2CI72EK-6963SUAQ}",
+        "07/16/2010 23:01:54",
+        "GFM1815",
+        "PC-5183"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-REF1924.csv",
+    "rows": 24,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 9,
+      "http": 3
+    },
+    "actors": {
+      "REF1924": 24
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{D0R7-J3AC41OB-8585MJMT}",
+        "10/14/2010 19:08:01",
+        "REF1924",
+        "PC-8855"
+      ],
+      [
+        "device",
+        "{Z9I8-R8YS35YA-8822CBRY}",
+        "10/14/2010 23:02:13",
+        "REF1924",
+        "PC-8855",
+        "R:\\;R:\\REF1924;R:\\76H4nT4;R:\\87Fn1D2"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{I7U5-J2JM06KN-1129RHBU}",
+        "10/19/2010 22:21:53",
+        "REF1924",
+        "PC-8855",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{J6C6-W8JD48JQ-9356CFAK}",
+        "10/19/2010 22:23:03",
+        "REF1924",
+        "PC-8855",
+        ""
+      ],
+      [
+        "logon",
+        "{B3B9-Q7QA86MZ-4154GDHS}",
+        "10/19/2010 22:24:04",
+        "REF1924",
+        "PC-8855"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-VAH1292.csv",
+    "rows": 24,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 9,
+      "http": 3
+    },
+    "actors": {
+      "VAH1292": 24
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{C6M4-B6DH58IR-1340VOSB}",
+        "04/29/2011 22:01:07",
+        "VAH1292",
+        "PC-9650"
+      ],
+      [
+        "device",
+        "{G9E8-K7ZE50AL-6918QBRN}",
+        "04/29/2011 23:57:15",
+        "VAH1292",
+        "PC-9650",
+        "R:\\;R:\\VAH1292;R:\\96jJ5r2;R:\\814Wb39"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{L8B5-P3UG92XZ-2410CMOR}",
+        "05/07/2011 03:59:43",
+        "VAH1292",
+        "PC-9650",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{L2X9-K6PD40UM-8231KZOL}",
+        "05/07/2011 04:02:12",
+        "VAH1292",
+        "PC-9650",
+        ""
+      ],
+      [
+        "logon",
+        "{P7J0-B2KI07VK-9049OSJJ}",
+        "05/07/2011 04:04:19",
+        "VAH1292",
+        "PC-9650"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-WSK1857.csv",
+    "rows": 28,
+    "kinds": {
+      "logon": 8,
+      "device": 8,
+      "file": 8,
+      "http": 4
+    },
+    "actors": {
+      "WSK1857": 28
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{Q0U2-M8NT63SD-7085BYQO}",
+        "03/04/2011 00:09:34",
+        "WSK1857",
+        "PC-5116"
+      ],
+      [
+        "device",
+        "{U0X0-U3EA66PH-4455DDFF}",
+        "03/04/2011 00:15:41",
+        "WSK1857",
+        "PC-5116",
+        "R:\\;R:\\WSK1857"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{C3G8-R4PN97AS-9368RZQI}",
+        "03/11/2011 05:43:37",
+        "WSK1857",
+        "PC-5116",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{Z7H0-X7UA70IM-5714PJMS}",
+        "03/11/2011 06:24:13",
+        "WSK1857",
+        "PC-5116",
+        ""
+      ],
+      [
+        "logon",
+        "{E5W3-P1TX17EA-5536FAZJ}",
+        "03/11/2011 06:52:02",
+        "WSK1857",
+        "PC-5116"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-ALW0764.csv",
+    "rows": 13,
+    "kinds": {
+      "logon": 4,
+      "device": 4,
+      "file": 3,
+      "http": 2
+    },
+    "actors": {
+      "ALW0764": 13
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{C9L6-H1QT87HX-2218FZCC}",
+        "02/03/2011 07:09:09",
+        "ALW0764",
+        "PC-4156"
+      ],
+      [
+        "device",
+        "{R1B9-O0TP44KT-2039ELXI}",
+        "02/03/2011 07:12:36",
+        "ALW0764",
+        "PC-4156",
+        "R:\\;R:\\ALW0764;R:\\83p6vM4"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{L8I0-X5KO26KQ-6454ZCHQ}",
+        "02/05/2011 06:10:42",
+        "ALW0764",
+        "PC-4156",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{M8K7-T8BV96IS-8560WELG}",
+        "02/05/2011 06:11:42",
+        "ALW0764",
+        "PC-4156",
+        ""
+      ],
+      [
+        "logon",
+        "{E1O5-D9YL02MP-3741UJGP}",
+        "02/05/2011 06:12:51",
+        "ALW0764",
+        "PC-4156"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-1/r5.2-1-NIV1608.csv",
+    "rows": 21,
+    "kinds": {
+      "logon": 6,
+      "device": 6,
+      "file": 6,
+      "http": 3
+    },
+    "actors": {
+      "NIV1608": 21
+    },
+    "first_rows": [
+      [
+        "logon",
+        "{A3X2-E5JH17VL-3254CFDC}",
+        "02/05/2011 01:22:24",
+        "NIV1608",
+        "PC-5398"
+      ],
+      [
+        "device",
+        "{D6W1-T5LD88YT-8358YPHR}",
+        "02/05/2011 03:46:08",
+        "NIV1608",
+        "PC-5398",
+        "R:\\;R:\\NIV1608;R:\\362jcC8;R:\\32NgSH0"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{Q8B6-H5QO53UA-1922ITVY}",
+        "02/12/2011 06:12:01",
+        "NIV1608",
+        "PC-5398",
+        "http://wikileaks.org/Julian_Assange/assange/The_Real_Story_About_DTAA/Gur_Erny_Fgbel_Nobhg_QGNN1528513805.php",
+        "The_Real_Story_About_DTAA"
+      ],
+      [
+        "device",
+        "{D8N8-S0YO65AL-1742YTQG}",
+        "02/12/2011 06:13:05",
+        "NIV1608",
+        "PC-5398",
+        ""
+      ],
+      [
+        "logon",
+        "{N7X2-U5JU08TT-6621XLNG}",
+        "02/12/2011 06:15:24",
+        "NIV1608",
+        "PC-5398"
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-MDS0680.csv",
+    "rows": 220,
+    "kinds": {
+      "http": 152,
+      "email": 10,
+      "device": 58
+    },
+    "actors": {
+      "MDS0680": 220
+    },
+    "first_rows": [
+      [
+        "http",
+        "{V5J6-H8XN89GG-2523UGXR}",
+        "07/20/2010 08:10:25",
+        "MDS0680",
+        "PC-9688",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{R8B6-S3QV45PB-7146ALDS}",
+        "07/20/2010 17:30:59",
+        "MDS0680",
+        "PC-9688",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{E9A2-Q3OE59MF-4299JXOK}",
+        "09/13/2010 15:25:00",
+        "MDS0680",
+        "PC-9688",
+        ""
+      ],
+      [
+        "device",
+        "{W8W8-M0AP05JN-0024VVSR}",
+        "09/13/2010 16:16:59",
+        "MDS0680",
+        "PC-9688",
+        "R:\\;R:\\MDS0680;R:\\85LwQQ0"
+      ],
+      [
+        "device",
+        "{I0O6-A0KW24JM-1241OIBY}",
+        "09/13/2010 16:24:07",
+        "MDS0680",
+        "PC-9688",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-SIS0042.csv",
+    "rows": 95,
+    "kinds": {
+      "http": 85,
+      "email": 10
+    },
+    "actors": {
+      "SIS0042": 95
+    },
+    "first_rows": [
+      [
+        "http",
+        "{Z5T4-J0FG53IW-0390MJST}",
+        "07/06/2010 12:22:38",
+        "SIS0042",
+        "PC-5430",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{U9A7-M5LM96LR-0791TOOM}",
+        "07/06/2010 13:06:44",
+        "SIS0042",
+        "PC-5430",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{S8K4-S8LV74DT-4119BRLE}",
+        "08/04/2010 13:50:16",
+        "SIS0042",
+        "PC-5430",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{X2T8-R6GX67GT-8745CPPW}",
+        "08/04/2010 16:24:11",
+        "SIS0042",
+        "PC-5430",
+        "http://careerbuilder.com/WboUhagvat660170997.htm",
+        "Job Hunting"
+      ],
+      [
+        "email",
+        "{K1C2-W1JU68CF-2397XIYH}",
+        "08/19/2010 08:55:23",
+        "SIS0042",
+        "PC-5430",
+        "Justine.Paula.Mccullough@dtaa.com",
+        "",
+        "",
+        "Shelby.Isabelle.Saunders@dtaa.com",
+        "Send",
+        "25381",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-ITA0159.csv",
+    "rows": 238,
+    "kinds": {
+      "http": 116,
+      "email": 8,
+      "device": 114
+    },
+    "actors": {
+      "ITA0159": 238
+    },
+    "first_rows": [
+      [
+        "http",
+        "{I8R0-G0DG65PJ-0944UVZI}",
+        "12/20/2010 09:49:46",
+        "ITA0159",
+        "PC-4594",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{S5R2-J9YO86TY-5669TMFJ}",
+        "12/20/2010 15:33:45",
+        "ITA0159",
+        "PC-4594",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{O3Q9-V1ES77EL-5497DQLO}",
+        "02/14/2011 14:46:06",
+        "ITA0159",
+        "PC-4594",
+        ""
+      ],
+      [
+        "device",
+        "{A6L9-O9DS86VQ-3343GNAF}",
+        "02/14/2011 14:51:08",
+        "ITA0159",
+        "PC-4594",
+        "R:\\;R:\\ITA0159;R:\\921ZH89;R:\\29X9n75;R:\\33ghz61"
+      ],
+      [
+        "device",
+        "{Q1A9-H9ER65OF-7372OROF}",
+        "02/14/2011 14:59:39",
+        "ITA0159",
+        "PC-4594",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-RRS0056.csv",
+    "rows": 225,
+    "kinds": {
+      "http": 117,
+      "email": 18,
+      "device": 90
+    },
+    "actors": {
+      "RRS0056": 225
+    },
+    "first_rows": [
+      [
+        "http",
+        "{V6B0-H5EN01YD-4679XVUK}",
+        "10/14/2010 09:28:28",
+        "RRS0056",
+        "PC-4821",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{H8P6-E3KG09ZB-4131PQTS}",
+        "10/14/2010 11:00:36",
+        "RRS0056",
+        "PC-4821",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{T4W4-M4YM38KH-6468DGDD}",
+        "12/09/2010 11:27:12",
+        "RRS0056",
+        "PC-4821",
+        ""
+      ],
+      [
+        "device",
+        "{C5L7-D8LW02GA-1041HFYN}",
+        "12/09/2010 11:30:29",
+        "RRS0056",
+        "PC-4821",
+        "R:\\;R:\\RRS0056;R:\\82k36x6;R:\\66m8c35;R:\\41mfxN0"
+      ],
+      [
+        "device",
+        "{L5L9-N2IR76OV-0131RKZU}",
+        "12/09/2010 11:31:54",
+        "RRS0056",
+        "PC-4821",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-DCC1119.csv",
+    "rows": 107,
+    "kinds": {
+      "http": 87,
+      "email": 20
+    },
+    "actors": {
+      "DCC1119": 107
+    },
+    "first_rows": [
+      [
+        "http",
+        "{P4W5-S5SM23WM-1678MIKM}",
+        "11/29/2010 08:22:41",
+        "DCC1119",
+        "PC-0972",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{H3V6-F1PY18TS-9176CCWI}",
+        "11/29/2010 12:09:16",
+        "DCC1119",
+        "PC-0972",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "http",
+        "{B0B1-Z5DE51CG-5450WFGQ}",
+        "12/28/2010 09:30:38",
+        "DCC1119",
+        "PC-0972",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "email",
+        "{Z7N9-R0FB41VH-6622GKOO}",
+        "12/28/2010 09:36:47",
+        "DCC1119",
+        "PC-0972",
+        "HSB2987@raytheon.com",
+        "",
+        "",
+        "Daryl.Carly.Cohen@dtaa.com",
+        "Send",
+        "36441",
+        ""
+      ],
+      [
+        "email",
+        "{E5C0-N3MY56GX-6399PVMM}",
+        "01/11/2011 13:56:52",
+        "DCC1119",
+        "PC-0972",
+        "Darrel.Naida.Walton@dtaa.com",
+        "",
+        "",
+        "Daryl.Carly.Cohen@dtaa.com",
+        "Send",
+        "34021",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-OKM1092.csv",
+    "rows": 210,
+    "kinds": {
+      "http": 113,
+      "email": 15,
+      "device": 82
+    },
+    "actors": {
+      "OKM1092": 210
+    },
+    "first_rows": [
+      [
+        "http",
+        "{M1U0-H2FU00LB-6130EZCQ}",
+        "03/02/2011 10:29:29",
+        "OKM1092",
+        "PC-5931",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{H8T7-W4HH35MW-2962VFHT}",
+        "03/02/2011 10:54:07",
+        "OKM1092",
+        "PC-5931",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{Z9J3-T0FU70WV-3860SJSH}",
+        "04/20/2011 18:23:13",
+        "OKM1092",
+        "PC-5931",
+        ""
+      ],
+      [
+        "device",
+        "{W0O4-C3CX40EU-6399JKZA}",
+        "04/20/2011 18:39:08",
+        "OKM1092",
+        "PC-5931",
+        "R:\\;R:\\OKM1092"
+      ],
+      [
+        "device",
+        "{A9T5-R5NR28DA-3855FOZF}",
+        "04/20/2011 19:03:28",
+        "OKM1092",
+        "PC-5931",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-HSN0675.csv",
+    "rows": 212,
+    "kinds": {
+      "http": 124,
+      "email": 16,
+      "device": 72
+    },
+    "actors": {
+      "HSN0675": 212
+    },
+    "first_rows": [
+      [
+        "http",
+        "{E8H6-Z5PJ57RQ-0168OZFX}",
+        "03/03/2011 08:32:39",
+        "HSN0675",
+        "PC-9696",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{V3I1-P7EH91JS-5272LYVY}",
+        "03/03/2011 14:30:52",
+        "HSN0675",
+        "PC-9696",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{I8E8-V0QR37XL-8489VKHM}",
+        "04/27/2011 16:28:59",
+        "HSN0675",
+        "PC-9696",
+        ""
+      ],
+      [
+        "device",
+        "{O8J5-Z1IO10VE-8330SBXC}",
+        "04/27/2011 16:40:45",
+        "HSN0675",
+        "PC-9696",
+        "R:\\;R:\\HSN0675;R:\\12c5k55;R:\\26p9427"
+      ],
+      [
+        "device",
+        "{O7O8-E8TC31KH-5639DCRA}",
+        "04/27/2011 16:45:00",
+        "HSN0675",
+        "PC-9696",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-SNK1280.csv",
+    "rows": 184,
+    "kinds": {
+      "http": 111,
+      "email": 13,
+      "device": 60
+    },
+    "actors": {
+      "SNK1280": 184
+    },
+    "first_rows": [
+      [
+        "http",
+        "{K7M0-D9YL74KQ-8076DJYQ}",
+        "12/14/2010 08:34:44",
+        "SNK1280",
+        "PC-3271",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{X0E1-F1ML75ZP-9315GXFB}",
+        "12/14/2010 08:51:00",
+        "SNK1280",
+        "PC-3271",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{M4S8-S5WH73BY-0677HOJE}",
+        "01/31/2011 14:40:51",
+        "SNK1280",
+        "PC-3271",
+        ""
+      ],
+      [
+        "device",
+        "{D8A3-D0JR75KK-4697SSOZ}",
+        "01/31/2011 15:21:16",
+        "SNK1280",
+        "PC-3271",
+        "R:\\;R:\\SNK1280;R:\\42CJfJ0;R:\\843ytr8"
+      ],
+      [
+        "device",
+        "{T0N5-M7XR44GV-1400LMDW}",
+        "01/31/2011 16:01:04",
+        "SNK1280",
+        "PC-3271",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-TMT0851.csv",
+    "rows": 218,
+    "kinds": {
+      "http": 129,
+      "email": 17,
+      "device": 72
+    },
+    "actors": {
+      "TMT0851": 218
+    },
+    "first_rows": [
+      [
+        "http",
+        "{W7O7-D9GZ26WB-6489UUWB}",
+        "03/14/2011 09:24:11",
+        "TMT0851",
+        "PC-7629",
+        "http://simplyhired.com/WboUhagvat57469130.jsp",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{R3E1-S7GR17GB-3401NETU}",
+        "03/14/2011 18:43:05",
+        "TMT0851",
+        "PC-7629",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{M4X7-O1HG11KA-0122ZCSQ}",
+        "05/11/2011 17:49:40",
+        "TMT0851",
+        "PC-7629",
+        ""
+      ],
+      [
+        "device",
+        "{A7E0-K0YV68TB-5665GZVQ}",
+        "05/11/2011 18:57:35",
+        "TMT0851",
+        "PC-7629",
+        "R:\\;R:\\TMT0851;R:\\89THK51;R:\\27X4C55;R:\\177cLx8;R:\\78cpQm0"
+      ],
+      [
+        "device",
+        "{W2J2-M8UO21NQ-3664TARD}",
+        "05/11/2011 19:07:42",
+        "TMT0851",
+        "PC-7629",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-JAL0811.csv",
+    "rows": 244,
+    "kinds": {
+      "http": 123,
+      "email": 15,
+      "device": 106
+    },
+    "actors": {
+      "JAL0811": 244
+    },
+    "first_rows": [
+      [
+        "http",
+        "{K6L8-E5OX65WJ-7586AQVA}",
+        "12/30/2010 09:36:38",
+        "JAL0811",
+        "PC-1787",
+        "http://simplyhired.com/WboUhagvat57469130.jsp",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{A2K1-Y7NV00AS-5899QSWU}",
+        "12/30/2010 10:43:04",
+        "JAL0811",
+        "PC-1787",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{L2M5-U5BW78LQ-3858YOLF}",
+        "02/24/2011 12:23:09",
+        "JAL0811",
+        "PC-1787",
+        ""
+      ],
+      [
+        "device",
+        "{E9E3-J2ED14HA-7056PYDF}",
+        "02/24/2011 12:35:43",
+        "JAL0811",
+        "PC-1787",
+        "R:\\;R:\\JAL0811;R:\\73BcW71;R:\\15bHw51;R:\\235dzH8;R:\\75bbWZ0"
+      ],
+      [
+        "device",
+        "{H5M5-I7WC01AG-3696EHHC}",
+        "02/24/2011 12:41:35",
+        "JAL0811",
+        "PC-1787",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-CKP0630.csv",
+    "rows": 210,
+    "kinds": {
+      "http": 130,
+      "email": 4,
+      "device": 76
+    },
+    "actors": {
+      "CKP0630": 210
+    },
+    "first_rows": [
+      [
+        "http",
+        "{W5Z9-N1IG24TO-9078NMCG}",
+        "06/28/2010 08:13:30",
+        "CKP0630",
+        "PC-4612",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{L6L5-H3UM15SD-9878LRCH}",
+        "06/28/2010 09:28:48",
+        "CKP0630",
+        "PC-4612",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{X0M1-E5WU55SF-1894IZPQ}",
+        "08/13/2010 12:41:02",
+        "CKP0630",
+        "PC-4612",
+        ""
+      ],
+      [
+        "device",
+        "{I3P6-X0GF65HP-3324QGGU}",
+        "08/13/2010 12:48:44",
+        "CKP0630",
+        "PC-4612",
+        "R:\\;R:\\CKP0630;R:\\29Mkhh0"
+      ],
+      [
+        "device",
+        "{Z3Q7-B2KQ55YG-2093NCTF}",
+        "08/13/2010 12:59:03",
+        "CKP0630",
+        "PC-4612",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-BYO1846.csv",
+    "rows": 196,
+    "kinds": {
+      "http": 112,
+      "email": 10,
+      "device": 74
+    },
+    "actors": {
+      "BYO1846": 196
+    },
+    "first_rows": [
+      [
+        "http",
+        "{H5P5-X3EW51RU-3561IUFF}",
+        "10/18/2010 09:13:46",
+        "BYO1846",
+        "PC-8402",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{A3I3-N7OD53CX-6099ZEHY}",
+        "10/18/2010 09:27:04",
+        "BYO1846",
+        "PC-8402",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{L0N5-A3IG28JK-1740LTMO}",
+        "12/15/2010 14:15:58",
+        "BYO1846",
+        "PC-8402",
+        ""
+      ],
+      [
+        "device",
+        "{S7A0-F7YK80HR-8682VAZZ}",
+        "12/15/2010 14:45:23",
+        "BYO1846",
+        "PC-8402",
+        "R:\\;R:\\BYO1846;R:\\89R53P6;R:\\49c9sY4;R:\\964CdV8"
+      ],
+      [
+        "device",
+        "{I7C0-W5LW39TY-8182LAPO}",
+        "12/15/2010 14:49:13",
+        "BYO1846",
+        "PC-8402",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-HIS1394.csv",
+    "rows": 245,
+    "kinds": {
+      "http": 118,
+      "email": 5,
+      "device": 122
+    },
+    "actors": {
+      "HIS1394": 245
+    },
+    "first_rows": [
+      [
+        "http",
+        "{R8M9-V0QT47GL-5096QAEL}",
+        "11/01/2010 08:22:03",
+        "HIS1394",
+        "PC-0376",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{T0M6-J2XJ57HJ-2711OPJM}",
+        "11/01/2010 10:22:42",
+        "HIS1394",
+        "PC-0376",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{Z8G0-A8EZ50NH-1470VXEJ}",
+        "12/22/2010 16:12:33",
+        "HIS1394",
+        "PC-0376",
+        ""
+      ],
+      [
+        "device",
+        "{X7P8-H9FD33VX-2894TVQI}",
+        "12/22/2010 16:28:12",
+        "HIS1394",
+        "PC-0376",
+        "R:\\;R:\\HIS1394;R:\\96X9BF4;R:\\627Vf99"
+      ],
+      [
+        "device",
+        "{K3M2-B2MP00JI-6830AZMU}",
+        "12/22/2010 17:17:44",
+        "HIS1394",
+        "PC-0376",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-ZIE0741.csv",
+    "rows": 269,
+    "kinds": {
+      "http": 142,
+      "email": 15,
+      "device": 112
+    },
+    "actors": {
+      "ZIE0741": 269
+    },
+    "first_rows": [
+      [
+        "http",
+        "{G1V2-C1FR87BJ-3123OIUT}",
+        "06/29/2010 13:16:09",
+        "ZIE0741",
+        "PC-9132",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{H8P1-O3UC63MV-4256ORIQ}",
+        "06/30/2010 09:48:38",
+        "ZIE0741",
+        "PC-9132",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{R7M8-A6YS33ZC-5390YKTU}",
+        "08/27/2010 17:45:39",
+        "ZIE0741",
+        "PC-9132",
+        ""
+      ],
+      [
+        "device",
+        "{E0H6-Y8BS68XZ-4490QXYG}",
+        "08/27/2010 18:09:30",
+        "ZIE0741",
+        "PC-9132",
+        "R:\\;R:\\ZIE0741;R:\\99wjK21;R:\\35W1SS4;R:\\66D7387"
+      ],
+      [
+        "device",
+        "{W7B4-Q0QA62OT-0599UXNN}",
+        "08/27/2010 18:13:31",
+        "ZIE0741",
+        "PC-9132",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-HMS1658.csv",
+    "rows": 148,
+    "kinds": {
+      "http": 80,
+      "email": 14,
+      "device": 54
+    },
+    "actors": {
+      "HMS1658": 148
+    },
+    "first_rows": [
+      [
+        "http",
+        "{C5B4-B5BO20JL-5325OXID}",
+        "11/02/2010 14:12:34",
+        "HMS1658",
+        "PC-2691",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{C1A8-X9AV66GA-1936DHCE}",
+        "11/03/2010 10:24:16",
+        "HMS1658",
+        "PC-2691",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{K4Z3-G2HQ10RR-6238EFDA}",
+        "12/27/2010 15:11:15",
+        "HMS1658",
+        "PC-2691",
+        ""
+      ],
+      [
+        "device",
+        "{V1S0-Q4GI10QG-4262LYVM}",
+        "12/27/2010 16:46:33",
+        "HMS1658",
+        "PC-2691",
+        "R:\\;R:\\HMS1658"
+      ],
+      [
+        "device",
+        "{M9X0-J2ZY02CI-5025ROZY}",
+        "12/27/2010 16:55:07",
+        "HMS1658",
+        "PC-2691",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-HXP0976.csv",
+    "rows": 246,
+    "kinds": {
+      "http": 144,
+      "email": 10,
+      "device": 92
+    },
+    "actors": {
+      "HXP0976": 246
+    },
+    "first_rows": [
+      [
+        "http",
+        "{V6W3-X9MO48YC-4922IHLN}",
+        "10/22/2010 08:09:54",
+        "HXP0976",
+        "PC-4657",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{C2S2-O5FW04VE-7670UFQB}",
+        "10/22/2010 08:56:56",
+        "HXP0976",
+        "PC-4657",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{K7S8-X3XB56YV-7195BCUT}",
+        "12/17/2010 14:11:14",
+        "HXP0976",
+        "PC-4657",
+        ""
+      ],
+      [
+        "device",
+        "{A3T2-L7QS35CA-7743ZTOB}",
+        "12/17/2010 14:19:32",
+        "HXP0976",
+        "PC-4657",
+        "R:\\;R:\\HXP0976;R:\\27C91Q6"
+      ],
+      [
+        "device",
+        "{A4J9-B2HL72KO-0960ICOD}",
+        "12/17/2010 14:41:46",
+        "HXP0976",
+        "PC-4657",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-MCP0611.csv",
+    "rows": 294,
+    "kinds": {
+      "http": 189,
+      "email": 13,
+      "device": 92
+    },
+    "actors": {
+      "MCP0611": 294
+    },
+    "first_rows": [
+      [
+        "http",
+        "{D2J3-K3ER00KZ-6570PCCA}",
+        "08/09/2010 07:47:22",
+        "MCP0611",
+        "PC-3777",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{I7P0-K0RK12GZ-7960EIMH}",
+        "08/09/2010 08:01:22",
+        "MCP0611",
+        "PC-3777",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{P1B1-R4GF11RJ-0478PPWK}",
+        "10/06/2010 11:35:53",
+        "MCP0611",
+        "PC-3777",
+        ""
+      ],
+      [
+        "device",
+        "{K8J3-G6YC02VT-5205ELPK}",
+        "10/06/2010 14:28:02",
+        "MCP0611",
+        "PC-3777",
+        "R:\\;R:\\MCP0611;R:\\12xnR31"
+      ],
+      [
+        "device",
+        "{S2C0-W0FX43UK-1511AJRE}",
+        "10/06/2010 15:10:26",
+        "MCP0611",
+        "PC-3777",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-CIF1430.csv",
+    "rows": 228,
+    "kinds": {
+      "http": 122,
+      "email": 20,
+      "device": 86
+    },
+    "actors": {
+      "CIF1430": 228
+    },
+    "first_rows": [
+      [
+        "http",
+        "{I6I6-S1XU72DY-4556BRUA}",
+        "07/26/2010 10:30:46",
+        "CIF1430",
+        "PC-1384",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{J9N8-M2TB69QP-9517OUGD}",
+        "07/26/2010 13:15:11",
+        "CIF1430",
+        "PC-1384",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{N0T0-W2SN33PT-4138NCSZ}",
+        "09/23/2010 10:41:29",
+        "CIF1430",
+        "PC-1384",
+        ""
+      ],
+      [
+        "device",
+        "{O0J1-H8AJ89WZ-8023AISO}",
+        "09/23/2010 14:58:19",
+        "CIF1430",
+        "PC-1384",
+        "R:\\;R:\\CIF1430;R:\\22xmPK0;R:\\73Fj843;R:\\96H8mk4;R:\\98nPC31"
+      ],
+      [
+        "device",
+        "{G6X6-V5KZ62OG-3630OELW}",
+        "09/23/2010 15:19:33",
+        "CIF1430",
+        "PC-1384",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-ICB1354.csv",
+    "rows": 206,
+    "kinds": {
+      "http": 117,
+      "email": 13,
+      "device": 76
+    },
+    "actors": {
+      "ICB1354": 206
+    },
+    "first_rows": [
+      [
+        "http",
+        "{T1S9-E7OZ39ZB-7178FTNM}",
+        "10/18/2010 08:23:16",
+        "ICB1354",
+        "PC-6751",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{U8Z2-J7DP11WC-2048VCTF}",
+        "10/18/2010 08:35:13",
+        "ICB1354",
+        "PC-6751",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{O9C3-M6RZ41FA-4514FLOK}",
+        "12/07/2010 14:00:08",
+        "ICB1354",
+        "PC-6751",
+        ""
+      ],
+      [
+        "device",
+        "{Y7P1-M1ZJ86IS-3107QFJJ}",
+        "12/07/2010 14:17:45",
+        "ICB1354",
+        "PC-6751",
+        "R:\\;R:\\ICB1354;R:\\53Y8cv4;R:\\36M2X35;R:\\26nc523"
+      ],
+      [
+        "device",
+        "{V7L0-T8HD46GA-5242COBL}",
+        "12/07/2010 14:35:43",
+        "ICB1354",
+        "PC-6751",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-TRC1838.csv",
+    "rows": 205,
+    "kinds": {
+      "http": 140,
+      "email": 11,
+      "device": 54
+    },
+    "actors": {
+      "TRC1838": 205
+    },
+    "first_rows": [
+      [
+        "http",
+        "{Z2A9-R8XQ56LJ-1877KEBR}",
+        "07/19/2010 08:49:42",
+        "TRC1838",
+        "PC-7903",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{Z5G1-Q1WZ66ON-9927UGYL}",
+        "07/19/2010 08:50:41",
+        "TRC1838",
+        "PC-7903",
+        "http://simplyhired.com/WboUhagvat57469130.jsp",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{P6N0-B8KO58PE-2028FVEQ}",
+        "09/15/2010 14:04:24",
+        "TRC1838",
+        "PC-7903",
+        ""
+      ],
+      [
+        "device",
+        "{M6A1-J1ZA83GV-5926DFGW}",
+        "09/15/2010 15:13:17",
+        "TRC1838",
+        "PC-7903",
+        "R:\\;R:\\TRC1838;R:\\548MTH8;R:\\77yw533;R:\\297VXt8;R:\\46pRw31"
+      ],
+      [
+        "device",
+        "{S7A8-K5PL67TR-5748JJAE}",
+        "09/15/2010 15:28:52",
+        "TRC1838",
+        "PC-7903",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-VCF1602.csv",
+    "rows": 327,
+    "kinds": {
+      "http": 223,
+      "email": 16,
+      "device": 88
+    },
+    "actors": {
+      "VCF1602": 327
+    },
+    "first_rows": [
+      [
+        "http",
+        "{M1B0-S3VW81OG-0761BYSE}",
+        "06/23/2010 15:32:14",
+        "VCF1602",
+        "PC-2228",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{V9F6-L9ML88OD-7804NVLI}",
+        "06/23/2010 16:31:25",
+        "VCF1602",
+        "PC-2228",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{J9U2-A8WX76BF-7286UWSE}",
+        "08/11/2010 12:25:01",
+        "VCF1602",
+        "PC-2228",
+        ""
+      ],
+      [
+        "device",
+        "{F9P6-V2SK14FX-5882NGEO}",
+        "08/11/2010 18:00:44",
+        "VCF1602",
+        "PC-2228",
+        "R:\\;R:\\VCF1602"
+      ],
+      [
+        "device",
+        "{H3H9-H1MI27QA-5553YDGI}",
+        "08/11/2010 18:01:01",
+        "VCF1602",
+        "PC-2228",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-KSS1005.csv",
+    "rows": 317,
+    "kinds": {
+      "http": 206,
+      "email": 11,
+      "device": 100
+    },
+    "actors": {
+      "KSS1005": 317
+    },
+    "first_rows": [
+      [
+        "http",
+        "{V5M1-H9YC44IJ-1021JLMA}",
+        "08/18/2010 12:53:32",
+        "KSS1005",
+        "PC-5932",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{X1T7-E4YS66OC-8832ODPO}",
+        "08/18/2010 16:11:53",
+        "KSS1005",
+        "PC-5932",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{E3S2-H3AK38XG-4180DDQH}",
+        "10/13/2010 13:50:15",
+        "KSS1005",
+        "PC-5932",
+        ""
+      ],
+      [
+        "device",
+        "{X4Y4-R3CB69HE-9749QHNX}",
+        "10/13/2010 14:13:22",
+        "KSS1005",
+        "PC-5932",
+        "R:\\;R:\\KSS1005;R:\\51N7k55;R:\\24mtcM0;R:\\88TTJW0"
+      ],
+      [
+        "device",
+        "{C4O7-F4PN08FD-2249MFWT}",
+        "10/13/2010 14:43:02",
+        "KSS1005",
+        "PC-5932",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-CHP1711.csv",
+    "rows": 186,
+    "kinds": {
+      "http": 108,
+      "email": 8,
+      "device": 70
+    },
+    "actors": {
+      "CHP1711": 186
+    },
+    "first_rows": [
+      [
+        "http",
+        "{X1I4-Z7HO02LP-9855WVAY}",
+        "08/16/2010 14:33:04",
+        "CHP1711",
+        "PC-7951",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{L6S3-L5VJ55NF-1097ZEPS}",
+        "08/16/2010 16:09:03",
+        "CHP1711",
+        "PC-7951",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{O9M4-U5TW67KO-5093PFWS}",
+        "10/05/2010 17:19:15",
+        "CHP1711",
+        "PC-7951",
+        ""
+      ],
+      [
+        "device",
+        "{Q7V8-E1GW69AC-0591IGQJ}",
+        "10/05/2010 17:24:23",
+        "CHP1711",
+        "PC-7951",
+        "R:\\;R:\\CHP1711;R:\\32Rhs81"
+      ],
+      [
+        "device",
+        "{E8T7-C7PT06LE-4365UOYV}",
+        "10/05/2010 17:31:06",
+        "CHP1711",
+        "PC-7951",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-GWG0497.csv",
+    "rows": 193,
+    "kinds": {
+      "http": 105,
+      "email": 12,
+      "device": 76
+    },
+    "actors": {
+      "GWG0497": 193
+    },
+    "first_rows": [
+      [
+        "http",
+        "{E8I7-K2VZ23DQ-7583VIWL}",
+        "08/19/2010 13:43:14",
+        "GWG0497",
+        "PC-4022",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{N9L3-U2CN86UP-5322RWIQ}",
+        "08/19/2010 13:45:39",
+        "GWG0497",
+        "PC-4022",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{M7B6-X2XW82VX-7864DPYJ}",
+        "10/07/2010 15:43:30",
+        "GWG0497",
+        "PC-4022",
+        ""
+      ],
+      [
+        "device",
+        "{I2I7-U8KC80PL-6913HOJD}",
+        "10/07/2010 16:54:49",
+        "GWG0497",
+        "PC-4022",
+        "R:\\;R:\\GWG0497;R:\\17j3677;R:\\499tp79;R:\\14n3Kr4;R:\\27Wdkw0"
+      ],
+      [
+        "device",
+        "{I7N6-L5UU04BA-0121TSWA}",
+        "10/07/2010 17:05:45",
+        "GWG0497",
+        "PC-4022",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-WDT1634.csv",
+    "rows": 210,
+    "kinds": {
+      "http": 115,
+      "email": 13,
+      "device": 82
+    },
+    "actors": {
+      "WDT1634": 210
+    },
+    "first_rows": [
+      [
+        "http",
+        "{B1S9-Z4YB37WT-4285QYOG}",
+        "07/23/2010 15:13:52",
+        "WDT1634",
+        "PC-3774",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{P9Z8-W9PY70QE-6906XBNK}",
+        "07/26/2010 15:13:18",
+        "WDT1634",
+        "PC-3774",
+        "http://linkedin.com/WboUhagvat1479839504.aspx",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{I9T2-Z9UG85RE-8550QRBM}",
+        "09/10/2010 15:54:37",
+        "WDT1634",
+        "PC-3774",
+        ""
+      ],
+      [
+        "device",
+        "{I7B6-Q0VE34PY-8884PGLM}",
+        "09/10/2010 16:04:25",
+        "WDT1634",
+        "PC-3774",
+        "R:\\;R:\\WDT1634;R:\\35m7xf4;R:\\16RM723"
+      ],
+      [
+        "device",
+        "{U8Y1-V4JR45MJ-5602ZJHM}",
+        "09/10/2010 16:28:36",
+        "WDT1634",
+        "PC-3774",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-NAH1366.csv",
+    "rows": 199,
+    "kinds": {
+      "http": 109,
+      "email": 12,
+      "device": 78
+    },
+    "actors": {
+      "NAH1366": 199
+    },
+    "first_rows": [
+      [
+        "http",
+        "{Q5E3-I9LO74OY-7450PUIL}",
+        "09/20/2010 07:37:44",
+        "NAH1366",
+        "PC-4785",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{Q0K0-U6BT12MH-3653AUEC}",
+        "09/20/2010 08:24:49",
+        "NAH1366",
+        "PC-4785",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{I4P5-O6OS81CV-7301JGET}",
+        "11/17/2010 13:18:23",
+        "NAH1366",
+        "PC-4785",
+        ""
+      ],
+      [
+        "device",
+        "{Y3J5-Y9XT30FJ-6351NGST}",
+        "11/17/2010 14:59:29",
+        "NAH1366",
+        "PC-4785",
+        "R:\\;R:\\NAH1366;R:\\97t49s6;R:\\87t86c6;R:\\74Vn233"
+      ],
+      [
+        "device",
+        "{K2V7-L5CB82VA-6766AEZH}",
+        "11/17/2010 15:11:31",
+        "NAH1366",
+        "PC-4785",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-OSS1463.csv",
+    "rows": 215,
+    "kinds": {
+      "http": 115,
+      "email": 18,
+      "device": 82
+    },
+    "actors": {
+      "OSS1463": 215
+    },
+    "first_rows": [
+      [
+        "http",
+        "{Y2S2-A0OM69CJ-7600ZISZ}",
+        "07/26/2010 13:51:04",
+        "OSS1463",
+        "PC-1489",
+        "http://northropgrumman.com/WboUhagvat572113271.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{Q7Z5-R4ST83ZG-0315RIOR}",
+        "07/26/2010 16:52:58",
+        "OSS1463",
+        "PC-1489",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{D4U5-K8ON50JG-9932GQCD}",
+        "09/21/2010 14:02:59",
+        "OSS1463",
+        "PC-1489",
+        ""
+      ],
+      [
+        "device",
+        "{D3V4-C5BD40DD-7799ILDV}",
+        "09/21/2010 14:03:55",
+        "OSS1463",
+        "PC-1489",
+        "R:\\;R:\\OSS1463;R:\\85Kb843;R:\\48k81M6;R:\\27s5sP4;R:\\74WLf71"
+      ],
+      [
+        "device",
+        "{T1V7-E4QE15EU-7406ZZBP}",
+        "09/21/2010 15:11:58",
+        "OSS1463",
+        "PC-1489",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-TNB1616.csv",
+    "rows": 279,
+    "kinds": {
+      "http": 161,
+      "email": 26,
+      "device": 92
+    },
+    "actors": {
+      "TNB1616": 279
+    },
+    "first_rows": [
+      [
+        "http",
+        "{W9I6-V5HY16GI-9605TEKJ}",
+        "07/15/2010 10:12:25",
+        "TNB1616",
+        "PC-0618",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{T2Q9-C7SO22ND-8272KJUB}",
+        "07/15/2010 11:54:26",
+        "TNB1616",
+        "PC-0618",
+        "http://monster.com/WboUhagvat1180707852.html",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{F3R0-C7WR63HG-5355QKPI}",
+        "09/02/2010 18:00:08",
+        "TNB1616",
+        "PC-0618",
+        ""
+      ],
+      [
+        "device",
+        "{F1T3-W8FY82GD-0554JDVF}",
+        "09/02/2010 18:26:14",
+        "TNB1616",
+        "PC-0618",
+        "R:\\;R:\\TNB1616;R:\\12J81w6"
+      ],
+      [
+        "device",
+        "{B2R5-Q3QA79BU-4007WDSR}",
+        "09/02/2010 18:33:59",
+        "TNB1616",
+        "PC-0618",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-LVF1626.csv",
+    "rows": 165,
+    "kinds": {
+      "http": 102,
+      "email": 15,
+      "device": 48
+    },
+    "actors": {
+      "LVF1626": 165
+    },
+    "first_rows": [
+      [
+        "http",
+        "{R4L6-V3IM84XT-7001BPUH}",
+        "11/18/2010 10:09:46",
+        "LVF1626",
+        "PC-2179",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{C4O2-O1QD67DZ-0641CYKH}",
+        "11/18/2010 11:43:51",
+        "LVF1626",
+        "PC-2179",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{P6V8-E2LK23KP-0594FKDG}",
+        "01/12/2011 18:16:21",
+        "LVF1626",
+        "PC-2179",
+        ""
+      ],
+      [
+        "device",
+        "{O0A1-V6HY31YD-0871CEIS}",
+        "01/12/2011 18:21:34",
+        "LVF1626",
+        "PC-2179",
+        "R:\\;R:\\LVF1626;R:\\84L85K6;R:\\54Mn4T2;R:\\64r52L6;R:\\48ZjQ21"
+      ],
+      [
+        "device",
+        "{O0W7-T4CM93WC-5478VVZZ}",
+        "01/12/2011 18:34:32",
+        "LVF1626",
+        "PC-2179",
+        ""
+      ]
+    ]
+  },
+  {
+    "file": "answers/r5.2-2/r5.2-2-MGB1235.csv",
+    "rows": 186,
+    "kinds": {
+      "http": 98,
+      "email": 14,
+      "device": 74
+    },
+    "actors": {
+      "MGB1235": 186
+    },
+    "first_rows": [
+      [
+        "http",
+        "{Z4P3-M7CC56MD-1479WBSN}",
+        "11/29/2010 07:58:01",
+        "MGB1235",
+        "PC-5237",
+        "http://jobhuntersbible.com/WboUhagvat1258877042.aspx",
+        "Job Hunting"
+      ],
+      [
+        "http",
+        "{C1E2-E8SH61CD-6127VFKG}",
+        "11/29/2010 08:12:43",
+        "MGB1235",
+        "PC-5237",
+        "http://lockheedmartin.com/WboUhagvat1636367808.htm",
+        "Job Hunting"
+      ]
+    ],
+    "last_rows": [
+      [
+        "device",
+        "{U1S2-L7IF76AU-7523WQIF}",
+        "01/13/2011 16:35:51",
+        "MGB1235",
+        "PC-5237",
+        ""
+      ],
+      [
+        "device",
+        "{X3O0-F4NB27GA-1981JMQR}",
+        "01/13/2011 16:53:47",
+        "MGB1235",
+        "PC-5237",
+        "R:\\;R:\\MGB1235"
+      ],
+      [
+        "device",
+        "{S5G7-T3RI84DB-9006HXNE}",
+        "01/13/2011 17:14:00",
+        "MGB1235",
+        "PC-5237",
+        ""
+      ]
+    ]
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "users": 1000,
+  "active_days": 330452,
+  "positive_days": 976,
+  "negative_days": 329476,
+  "positive_users": 72,
+  "start": "2010-01-02",
+  "end": "2011-05-17",
+  "roles": 42,
+  "unknown_role_days": 0,
+  "missing_label_days": 0,
+  "confirmed_non_http_events": 3443,
+  "features": [
+    "afterhours_events",
+    "device_afterhours",
+    "device_events",
+    "email_afterhours",
+    "email_events",
+    "external_recipients",
+    "file_afterhours",
+    "file_events",
+    "logoffs",
+    "logon_afterhours",
+    "logon_events",
+    "logons",
+    "total_events",
+    "unique_pcs",
+    "usb_connects",
+    "usb_disconnects",
+    "weekend_events"
+  ],
+  "missing_feature_values": 0,
+  "http_used": false,
+  "source_audit": {
+    "logon": {
+      "rows": 854859,
+      "duplicate_rows_removed": 0,
+      "missing_essential_fields": 0,
+      "activities": {
+        "Logon": 470591,
+        "Logoff": 384268
+      },
+      "unique_events": 854859
+    },
+    "device": {
+      "rows": 405380,
+      "duplicate_rows_removed": 0,
+      "missing_essential_fields": 0,
+      "activities": {
+        "Connect": 203339,
+        "Disconnect": 202041
+      },
+      "unique_events": 405380
+    },
+    "file": {
+      "rows": 445581,
+      "duplicate_rows_removed": 0,
+      "missing_essential_fields": 0,
+      "activities": {},
+      "unique_events": 445581
+    },
+    "email": {
+      "rows": 2629979,
+      "duplicate_rows_removed": 0,
+      "missing_essential_fields": 0,
+      "activities": {},
+      "unique_events": 2629979
+    }
+  }
+}

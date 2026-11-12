@@ -1,0 +1,19 @@
+{
+  "release": "r6.2",
+  "official_incidents": 5,
+  "all_reference_events": 470,
+  "included_events": 423,
+  "excluded_other_actor_events": 47,
+  "verified_impersonation_events": 3,
+  "positive_days": 45,
+  "positive_accounts": 6,
+  "days_by_scenario": {
+    "1": 3,
+    "2": 29,
+    "3": 3,
+    "4": 9,
+    "5": 1
+  },
+  "master_scenario4_start_typo": true,
+  "definition": "Owner incident-observable days plus corroborated stolen-account activity; context reactions excluded"
+}

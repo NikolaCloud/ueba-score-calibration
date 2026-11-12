@@ -1,0 +1,129 @@
+{
+  "rows": 330452,
+  "columns": [
+    "user",
+    "day",
+    "total_logon_activity",
+    "after_hours_activity",
+    "after_hours_ratio",
+    "http_activity_count",
+    "total_emails",
+    "avg_sentiment",
+    "file_activity_count",
+    "usb_activity_count",
+    "sentiment_negative_flag",
+    "sentiment_strong_negative_flag",
+    "sentiment_30d_std",
+    "sentiment_z_user",
+    "weekday",
+    "is_weekend",
+    "logon_7d_mean",
+    "total_logon_activity_z_user",
+    "http_activity_count_z_user",
+    "total_emails_z_user",
+    "file_activity_count_z_user",
+    "usb_activity_count_z_user",
+    "login_hour_mean",
+    "login_hour_std",
+    "login_hour_range_p90_p10",
+    "O",
+    "C",
+    "E",
+    "A",
+    "N",
+    "role",
+    "department",
+    "functional_unit"
+  ],
+  "users": 1000,
+  "no_target_column": true,
+  "duplicates": 0,
+  "missing": {
+    "user": 0,
+    "day": 0,
+    "total_logon_activity": 0,
+    "after_hours_activity": 0,
+    "after_hours_ratio": 0,
+    "http_activity_count": 0,
+    "total_emails": 0,
+    "avg_sentiment": 0,
+    "file_activity_count": 0,
+    "usb_activity_count": 0,
+    "sentiment_negative_flag": 0,
+    "sentiment_strong_negative_flag": 0,
+    "sentiment_30d_std": 2000,
+    "sentiment_z_user": 0,
+    "weekday": 0,
+    "is_weekend": 0,
+    "logon_7d_mean": 2000,
+    "total_logon_activity_z_user": 0,
+    "http_activity_count_z_user": 0,
+    "total_emails_z_user": 0,
+    "file_activity_count_z_user": 0,
+    "usb_activity_count_z_user": 0,
+    "login_hour_mean": 0,
+    "login_hour_std": 0,
+    "login_hour_range_p90_p10": 0,
+    "O": 0,
+    "C": 0,
+    "E": 0,
+    "A": 0,
+    "N": 0,
+    "role": 31281,
+    "department": 36125,
+    "functional_unit": 31973
+  },
+  "full_history_z_equivalence": {
+    "total_logon_activity_z_user": {
+      "ddof_0": {
+        "max_abs_error": 0.056481323616088375,
+        "matching_fraction": 0.524923438199799
+      },
+      "ddof_1": {
+        "max_abs_error": 0.0,
+        "matching_fraction": 1.0
+      }
+    },
+    "http_activity_count_z_user": {
+      "ddof_0": {
+        "max_abs_error": 0.0805699484600062,
+        "matching_fraction": 0.7248768353648941
+      },
+      "ddof_1": {
+        "max_abs_error": 0.0,
+        "matching_fraction": 1.0
+      }
+    },
+    "total_emails_z_user": {
+      "ddof_0": {
+        "max_abs_error": 0.08390296269138808,
+        "matching_fraction": 0.002000290511178628
+      },
+      "ddof_1": {
+        "max_abs_error": 0.0,
+        "matching_fraction": 1.0
+      }
+    },
+    "file_activity_count_z_user": {
+      "ddof_0": {
+        "max_abs_error": 0.050372191344809636,
+        "matching_fraction": 0.7492676697372084
+      },
+      "ddof_1": {
+        "max_abs_error": 0.0,
+        "matching_fraction": 1.0
+      }
+    },
+    "usb_activity_count_z_user": {
+      "ddof_0": {
+        "max_abs_error": 0.04693151836207399,
+        "matching_fraction": 0.7496429133429363
+      },
+      "ddof_1": {
+        "max_abs_error": 0.0,
+        "matching_fraction": 1.0
+      }
+    }
+  },
+  "interpretation": "Exact equivalence to whole-user-history normalization is evidence against accepting these features as independently verified causal features; producer code remains unavailable."
+}

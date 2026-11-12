@@ -1,0 +1,48 @@
+[
+  {
+    "name": "facade.pdf",
+    "url": "https://www.usenix.org/system/files/usenixsecurity26-kantchelian.pdf",
+    "status": 200,
+    "bytes": 1536391,
+    "sha256": "023aaade69a5220a194f62724b0cd88575521f3619870e5b196430cf50c018cb"
+  },
+  {
+    "name": "martinez_gil.pdf",
+    "url": "https://raw.githubusercontent.com/mlresearch/v244/main/assets/martinez-gil24a/martinez-gil24a.pdf",
+    "status": 200,
+    "bytes": 3953070,
+    "sha256": "fb3df74cb07078f5f13a4ad1a01280ba9ff33ec2a3ac4372121131f2cf3ddc38"
+  },
+  {
+    "name": "bowie_university.html",
+    "url": "https://researchonline.gcu.ac.uk/en/publications/counterfactual-routine-deviation-personalised-behavioural-modelli/",
+    "status": 200,
+    "bytes": 64326,
+    "sha256": "ceeebb63a98d58da1e211a94dd8c5424b855d90fa8bfa03608898e08c360d7e4"
+  },
+  {
+    "name": "bowie_full.pdf",
+    "url": "https://researchonline.gcu.ac.uk/files/116676993/116650450.pdf",
+    "status": 403,
+    "bytes": 5640
+  },
+  {
+    "name": "session_paper.html",
+    "url": "https://www.sciencedirect.com/science/article/pii/S2666827026001118",
+    "status": 403,
+    "bytes": 832980
+  },
+  {
+    "name": "hcc_cp.html",
+    "url": "https://ww2.amstat.org/meetings/jsm/2026/onlineprogram/abstract.cfm?sid=8751&tid=9087",
+    "status": 403,
+    "bytes": 6578
+  },
+  {
+    "name": "weighted_low_data.html",
+    "url": "https://arxiv.org/html/2603.23205v1",
+    "status": 200,
+    "bytes": 642831,
+    "sha256": "5b01b543ddfa9c2468b2cc6c27bd53a81bb6bad6ddc977ec4161b5ce803743c3"
+  }
+]

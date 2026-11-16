@@ -1,0 +1,83 @@
+{
+  "outcome": "C",
+  "independent_release_completed": true,
+  "independently_confirmed": false,
+  "criterion": "All 5 FPR<=1%, upper 95% FPR CI<=1%, Recall gain>=.05 and lower 95% gain CI>.05, Holm<.05",
+  "positive_account_support_requirement_for_general_claim": "At least 5 positive accounts; otherwise clearly weak support",
+  "datasets": {
+    "r4.2": {
+      "comparator": "TM4",
+      "m5_recall": 0.16307692307692304,
+      "baseline_recall": 0.29846153846153844,
+      "recall_gain": -0.1353846153846154,
+      "gain_ci": [
+        -0.2333333333333333,
+        -0.0437228260869564
+      ],
+      "p_holm_primary": 0.084516903380676,
+      "m5_fpr": 0.00569666262804268,
+      "worst_seed_fpr": 0.0061019936116312,
+      "fpr_ci": [
+        0.0041182456315339,
+        0.0076368821326927
+      ],
+      "all_seeds_fpr_le_1pct": true,
+      "fpr_upper_ci_le_1pct": true,
+      "formal_success": false,
+      "positive_days": 65,
+      "positive_accounts": 9,
+      "independent": false,
+      "low_positive_account_support": false
+    },
+    "r5.2": {
+      "comparator": "EU",
+      "m5_recall": 0.16273291925465833,
+      "baseline_recall": 0.39254658385093166,
+      "recall_gain": -0.2298136645962733,
+      "gain_ci": [
+        -0.4219902319902319,
+        -0.0932038834951456
+      ],
+      "p_holm_primary": 0.0708,
+      "m5_fpr": 0.006916826251229161,
+      "worst_seed_fpr": 0.0070493245691216,
+      "fpr_ci": [
+        0.0055604141241007,
+        0.008407755838256
+      ],
+      "all_seeds_fpr_le_1pct": true,
+      "fpr_upper_ci_le_1pct": true,
+      "formal_success": false,
+      "positive_days": 161,
+      "positive_accounts": 25,
+      "independent": false,
+      "low_positive_account_support": false
+    },
+    "r6.2": {
+      "comparator": "M3",
+      "m5_recall": 0.3333333333333333,
+      "baseline_recall": 0.4166666666666667,
+      "recall_gain": -0.0833333333333333,
+      "gain_ci": [
+        -0.125,
+        0.0
+      ],
+      "p_holm_primary": 0.7913385826771653,
+      "m5_fpr": 0.00786859774707282,
+      "worst_seed_fpr": 0.0080360791198147,
+      "fpr_ci": [
+        0.0068306586844711,
+        0.0090163679796278
+      ],
+      "all_seeds_fpr_le_1pct": true,
+      "fpr_upper_ci_le_1pct": true,
+      "formal_success": false,
+      "positive_days": 12,
+      "positive_accounts": 2,
+      "independent": true,
+      "low_positive_account_support": true
+    }
+  },
+  "original_M4_unchanged": true,
+  "M5_reselected_after_test": false
+}

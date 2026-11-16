@@ -1,0 +1,20 @@
+{
+  "capacity_grid": [
+    10,
+    30,
+    60,
+    90,
+    120
+  ],
+  "post_selection_diagnostic": true,
+  "not_used_to_select_M5": true,
+  "base_model_sha256": "a93dd2e18f15cd604abbaf2e4c42d56c0969f725c2b025364e31939c0720ad75",
+  "generated_sources_sha256": {
+    "10": "2decea06be331321b0fea313b61f691ec44415e2af00e16508aa2aa215a16973",
+    "30": "912b9e2c57c564903e4e9aa85d5097175604a1c3427aa925ef82114ccd3aa4f3",
+    "60": "058f3013722e34aa60020fa9431e7e928c1246df27108f3cb96922b971afa9fc",
+    "90": "4a8b4dd542099264abc829326db3c532b1205b4003552c90119f7687681eac6f",
+    "120": "1e01d6fd76425678528ac17df34e1f5743e5e56cb7f66a5c9b65e1bd0fa01848"
+  },
+  "capacity120_matches_primary": true
+}

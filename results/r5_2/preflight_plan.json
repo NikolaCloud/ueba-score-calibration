@@ -1,0 +1,102 @@
+{
+  "protocols": {
+    "primary": [
+      0.5,
+      0.2,
+      0.15,
+      0.15
+    ],
+    "early": [
+      0.2,
+      0.1,
+      0.1,
+      0.2
+    ],
+    "temporal_1": [
+      0.3,
+      0.15,
+      0.1,
+      0.15
+    ],
+    "temporal_2": [
+      0.4,
+      0.15,
+      0.1,
+      0.15
+    ],
+    "temporal_3": [
+      0.5,
+      0.15,
+      0.1,
+      0.15
+    ]
+  },
+  "features": [
+    "afterhours_events",
+    "device_afterhours",
+    "device_events",
+    "email_afterhours",
+    "email_events",
+    "external_recipients",
+    "file_afterhours",
+    "file_events",
+    "logoffs",
+    "logon_afterhours",
+    "logon_events",
+    "logons",
+    "total_events",
+    "unique_pcs",
+    "usb_connects",
+    "usb_disconnects",
+    "weekend_events"
+  ],
+  "data_sha256": "09359a8ec7a03acf33cc2fade591623d3608dabcbbc26eb1a6c3c9b234024e9b",
+  "protocol_sha256": "d639ffae4861fdfa3dd1b57cc6ae097a6232d3f9bc5a90e109711ce57d4ae0f4",
+  "locked_methods": {
+    "calibration_sha256": {
+      "ueba/calibration/base.py": "afe4f90814210f4880cfb75cf1fe4bd9c6491400198eb510e46da5c9d611d414",
+      "ueba/calibration/equal.py": "faae240634de75354d9ae5a12984dd17549111c444613e586e42d626e6459ca7",
+      "ueba/calibration/global_score.py": "15617f138144e44be452575e520815e5b1807967eee2dc3ffb4932cdd2943b67",
+      "ueba/calibration/hierarchical.py": "3e955d67a888af50d769cbe43460b48383d2c50713c8fb104ba85ebb1462ec6e",
+      "ueba/calibration/role.py": "b1732697565b8931cdbc38b4a1a28304bd27541af320fb15e2a4a4e1eb8f459b",
+      "ueba/calibration/user.py": "c6c253581a012cb550c12c691dadc96722e06ca1396bd985ce33b230fc5ded4b",
+      "ueba/calibration/__init__.py": "ad0517360d99a2a9a4bd5caf31cca334be5e6a4f4f137452ac9f31a0cb7ce2b5"
+    },
+    "matched_original_r4_2_bundle": true,
+    "M4_k_user": 30,
+    "M4_k_role": 200,
+    "detector": "IsolationForest",
+    "n_estimators": 200,
+    "max_samples": 2048,
+    "seeds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "model_selection": "none"
+  },
+  "source_sha256": {
+    "ueba/data.py": "7e28ae83e161fb1c82616726c46428ab6de9148f62b251d26645fd45d6a2136c",
+    "ueba/experiment.py": "f56c0e3d7ab0439ce4f2656e973e1221b9d3d897d3a14fc37e1c1fa3cf56bf10",
+    "ueba/metrics.py": "bec42e28f29c89bcce331415659eb21df5dadd89d7a2eb0d3b2787a8b073db56",
+    "ueba/report.py": "5e00ad44b26d725f994d504ef3cde63ecbf90eb2e9fede7cdcea41089206a903",
+    "ueba/splits.py": "a288c48a7ada41218909d71114d269668ca58de6a14e096002b6bc7cf190860a",
+    "ueba/statistics.py": "253f514026e5c0478e822f6eec41cb3353490845c0ad663915af820883031428",
+    "ueba/__init__.py": "44425e1b3aebe262c154914961e09b09516c0209589a91abdf9cbc43bb1652e0",
+    "ueba/calibration/base.py": "afe4f90814210f4880cfb75cf1fe4bd9c6491400198eb510e46da5c9d611d414",
+    "ueba/calibration/equal.py": "faae240634de75354d9ae5a12984dd17549111c444613e586e42d626e6459ca7",
+    "ueba/calibration/global_score.py": "15617f138144e44be452575e520815e5b1807967eee2dc3ffb4932cdd2943b67",
+    "ueba/calibration/hierarchical.py": "3e955d67a888af50d769cbe43460b48383d2c50713c8fb104ba85ebb1462ec6e",
+    "ueba/calibration/role.py": "b1732697565b8931cdbc38b4a1a28304bd27541af320fb15e2a4a4e1eb8f459b",
+    "ueba/calibration/user.py": "c6c253581a012cb550c12c691dadc96722e06ca1396bd985ce33b230fc5ded4b",
+    "ueba/calibration/__init__.py": "ad0517360d99a2a9a4bd5caf31cca334be5e6a4f4f137452ac9f31a0cb7ce2b5",
+    "ueba/replication/answers.py": "28ce6953130447c9990646c89621f904674b67e264c5668f6bda25c3cbc5ba1a",
+    "ueba/replication/prepare.py": "95c02246f9548b86ec4a1e7716fe374e3ca76e17d326978ab54f47b465277770",
+    "ueba/replication/report.py": "ce680d5e5aa6885273a8db0298d15c029b51b9266a1686ba25cb47e33ab7cbcc",
+    "ueba/replication/run.py": "b3ad4f11482b6a19a69b03d556dd94dff95729cb622053d8ec09b5daf92f4f8a",
+    "ueba/replication/statistics.py": "37a0ca14eaec31ecc1c34ac2dea77e4a343bc8c9ce2db611eebab052ab2608a6",
+    "ueba/replication/__init__.py": "779915f8ef04eedaa58d05dbd9b77201c0cca9d9d10b5ad1a8d53874a6c9135d"
+  }
+}

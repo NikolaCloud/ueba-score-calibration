@@ -1,0 +1,4 @@
+release,block,start,end,days,positives,positive_accounts
+r5.2,calibration,2010-09-17,2010-12-28,132527,394,38
+r5.2,guard,2010-12-29,2011-02-05,50525,139,28
+r5.2,threshold,2011-02-06,2011-03-16,51733,153,32

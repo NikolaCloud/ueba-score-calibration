@@ -1,0 +1,26 @@
+{
+  "passed": true,
+  "releases": [
+    "r4.2",
+    "r5.2",
+    "r6.2"
+  ],
+  "independently_recomputed_metric_rows": 255,
+  "frozen_original_baseline_arrays": 75,
+  "prior_EU_TU_TM4_T30_arrays": 40,
+  "validation_thresholds_checked": 255,
+  "comparator_selection_checked": true,
+  "causal_formula_from_traces_checked": true,
+  "all_frozen_source_hashes_match": true,
+  "r6_train_only_preprocessing_checked": true,
+  "packages": {
+    "numpy": "2.2.6",
+    "pandas": "2.3.2",
+    "scikit-learn": "1.7.1",
+    "numba": "0.61.2",
+    "llvmlite": "0.44.0",
+    "threadpoolctl": "3.6.0",
+    "pyarrow": "21.0.0"
+  },
+  "failures": []
+}

@@ -1,0 +1,30 @@
+{
+  "protocol_sha256": "8b5b833ed53933f2d3791619aff0b4b75de8789c9f95a1b6754e31b55105e2e5",
+  "candidates": [
+    "E30",
+    "E5",
+    "EU",
+    "T30",
+    "T5",
+    "TU",
+    "TG30"
+  ],
+  "source_sha256": {
+    "contextual.py": "10563f980358e7b2ea33c5be2250d6394c20b9802b65725da79f57590cfe7ec3",
+    "round2.py": "3f87713e03484b571ede6e96a7306c39238ed21f78c5b02e52959ce05dbfd958",
+    "run.py": "b12385019247e416bdfc86ffcd57667ff6224950137463ea2f0a4809faf5eebd",
+    "tails.py": "eb07c39c784b2c432683b3d77b9ed9e52dd84edeb0402042bb15f32019705c36",
+    "__init__.py": "86075b6420a69b8a846762a0c07d338b9ed2ff1196fb25fd999a82f7abddf79e"
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "accessed_blocks": [
+    "calibration",
+    "validation"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "protocol_sha256": "01cf0f69255bc2c727e36e388b53ecee41e1af97d4adc1087f2507faf22f0d51",
+  "candidates": [
+    "G30",
+    "Z30",
+    "EB30",
+    "EB90",
+    "UZ"
+  ],
+  "source_sha256": {
+    "contextual.py": "10563f980358e7b2ea33c5be2250d6394c20b9802b65725da79f57590cfe7ec3",
+    "run.py": "b12385019247e416bdfc86ffcd57667ff6224950137463ea2f0a4809faf5eebd",
+    "__init__.py": "86075b6420a69b8a846762a0c07d338b9ed2ff1196fb25fd999a82f7abddf79e"
+  },
+  "accessed_blocks": [
+    "calibration",
+    "validation"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

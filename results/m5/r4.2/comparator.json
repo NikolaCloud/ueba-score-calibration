@@ -1,0 +1,7 @@
+{
+  "release": "r4.2",
+  "comparator": "TM4",
+  "selected_on": "Threshold-validation only, before M5 test",
+  "validation_mean_recall": 0.22459016393442624,
+  "validation_mean_fpr": 0.007497883661869634
+}

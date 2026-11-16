@@ -1,0 +1,32 @@
+{
+  "passed": true,
+  "release": "r4.2",
+  "fresh_output_directory": "results\\m5_reproduction_check",
+  "five_seeds": true,
+  "checks": {
+    "metrics.csv": {
+      "identical": true,
+      "sha256": "5683bd9558dc02befd7c22c97ec4f2a6d3f11a22107a30351098bd2cee055344"
+    },
+    "thresholds.csv": {
+      "identical": true,
+      "sha256": "2bceb485942bcb0e2fcc301c3b09e8be53cd231a3dab360e3bc2407f8dcbd0f1"
+    },
+    "validation_metrics.csv": {
+      "identical": true,
+      "sha256": "67e131da3ace7bc0eb0ef77ec2f3431eb33335f5c571607833fc8c615669cf3e"
+    },
+    "threshold_candidates.csv": {
+      "identical": true,
+      "sha256": "d1632ef0bcd13a41ab350ea785e2eab37e5999d076481535a44b3b4ca7defc65"
+    },
+    "confidence_intervals.csv": {
+      "identical": true,
+      "sha256": "2d6b8cd00f03df14b5f920a4a4d6e5ee7d68d4e06d7a374da978669723671d04"
+    },
+    "paired_comparisons_uncorrected.csv": {
+      "identical": true,
+      "sha256": "f58b6a4a53264664092bb7d34538892266e940ef6b767deea24ab6967adda04a"
+    }
+  }
+}

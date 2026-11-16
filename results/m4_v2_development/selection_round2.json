@@ -1,0 +1,154 @@
+{
+  "selected": "T30",
+  "qualified": true,
+  "candidates": [
+    {
+      "candidate": "E30",
+      "qualified": true,
+      "order": 0,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.145,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.04516129032258064,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.19136690647482016,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.037037037037037035,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.16818345323741007,
+      "mean_max_role_fpr": 0.04109916367980884
+    },
+    {
+      "candidate": "E5",
+      "qualified": true,
+      "order": 1,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.1375,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.0530791788856305,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.20431654676258995,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.037037037037037035,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.170908273381295,
+      "mean_max_role_fpr": 0.04505810796133376
+    },
+    {
+      "candidate": "EU",
+      "qualified": true,
+      "order": 2,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.1375,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.046627565982404695,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.20575539568345325,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.037037037037037035,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.17162769784172663,
+      "mean_max_role_fpr": 0.041832301509720865
+    },
+    {
+      "candidate": "T30",
+      "qualified": true,
+      "order": 3,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.20750000000000002,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.05454545454545454,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.19424460431654675,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.03753236519193966,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.2008723021582734,
+      "mean_max_role_fpr": 0.0460389098686971
+    },
+    {
+      "candidate": "T5",
+      "qualified": true,
+      "order": 4,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.16999999999999998,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.06060606060606061,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.20575539568345325,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.050866824271079594,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.18787769784172662,
+      "mean_max_role_fpr": 0.0557364424385701
+    },
+    {
+      "candidate": "TU",
+      "qualified": true,
+      "order": 5,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.1625,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.06060606060606061,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.1985611510791367,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.050866824271079594,
+          "qualified": true
+        }
+      },
+      "mean_recall": 0.18053057553956836,
+      "mean_max_role_fpr": 0.0557364424385701
+    },
+    {
+      "candidate": "TG30",
+      "qualified": false,
+      "order": 6,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.19,
+          "best_baseline_recall": 0.1325,
+          "max_role_fpr": 0.06060606060606061,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.12949640287769784,
+          "best_baseline_recall": 0.18705035971223022,
+          "max_role_fpr": 0.03510075424969042,
+          "qualified": false
+        }
+      },
+      "mean_recall": 0.15974820143884894,
+      "mean_max_role_fpr": 0.04785340742787551
+    }
+  ],
+  "exploratory": true
+}

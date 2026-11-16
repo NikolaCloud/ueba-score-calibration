@@ -1,0 +1,50 @@
+{
+  "passed": true,
+  "release": "r5.2",
+  "data_days": 692645,
+  "positive_days": 1307,
+  "scenarios_present": [
+    1,
+    2,
+    3,
+    4
+  ],
+  "parameters_match_r4_2_bundle": true,
+  "periods": [
+    {
+      "period": "primary",
+      "seeds": 5,
+      "methods": 5,
+      "test_days": 96766,
+      "passed": true
+    },
+    {
+      "period": "early",
+      "seeds": 5,
+      "methods": 5,
+      "test_days": 141852,
+      "passed": true
+    },
+    {
+      "period": "temporal_1",
+      "seeds": 5,
+      "methods": 5,
+      "test_days": 97666,
+      "passed": true
+    },
+    {
+      "period": "temporal_2",
+      "seeds": 5,
+      "methods": 5,
+      "test_days": 97674,
+      "passed": true
+    },
+    {
+      "period": "temporal_3",
+      "seeds": 5,
+      "methods": 5,
+      "test_days": 103318,
+      "passed": true
+    }
+  ]
+}

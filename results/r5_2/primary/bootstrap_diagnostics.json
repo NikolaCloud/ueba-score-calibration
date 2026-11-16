@@ -1,0 +1,16 @@
+{
+  "replicates": 9999,
+  "bootstrap_seed": 20261102,
+  "users": 1799,
+  "positive_accounts": 25,
+  "replicates_without_positive": 0,
+  "scenario_replicates_without_positive": {
+    "1": 469,
+    "2": 540,
+    "3": 452,
+    "4": 0,
+    "5": 9999
+  },
+  "conditional_on": "Trained models, frozen profiles, fixed validation thresholds",
+  "scenario_budget": "Shared global top-1% list, without per-scenario re-ranking"
+}

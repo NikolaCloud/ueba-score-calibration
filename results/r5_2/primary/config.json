@@ -1,0 +1,53 @@
+{
+  "protocol": "r5_2/primary",
+  "fractions": [
+    0.5,
+    0.2,
+    0.15,
+    0.15
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "features": [
+    "afterhours_events",
+    "device_afterhours",
+    "device_events",
+    "email_afterhours",
+    "email_events",
+    "external_recipients",
+    "file_afterhours",
+    "file_events",
+    "logoffs",
+    "logon_afterhours",
+    "logon_events",
+    "logons",
+    "total_events",
+    "unique_pcs",
+    "usb_connects",
+    "usb_disconnects",
+    "weekend_events"
+  ],
+  "n_estimators": 200,
+  "max_samples": 2048,
+  "k_user": 30,
+  "k_role": 200,
+  "history": "frozen calibration only",
+  "role_min_history": 30,
+  "user_min_history": 5,
+  "methods": [
+    "M0",
+    "M1",
+    "M2",
+    "M3",
+    "M4"
+  ],
+  "threshold_comparison": ">",
+  "target_alert_rate": 0.01,
+  "bootstrap_replicates": 1000,
+  "timestamp_utc": "2026-11-02T08:56:47.227607+00:00"
+}

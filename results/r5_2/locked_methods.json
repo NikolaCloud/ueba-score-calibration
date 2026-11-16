@@ -1,0 +1,25 @@
+{
+  "calibration_sha256": {
+    "ueba/calibration/base.py": "afe4f90814210f4880cfb75cf1fe4bd9c6491400198eb510e46da5c9d611d414",
+    "ueba/calibration/equal.py": "faae240634de75354d9ae5a12984dd17549111c444613e586e42d626e6459ca7",
+    "ueba/calibration/global_score.py": "15617f138144e44be452575e520815e5b1807967eee2dc3ffb4932cdd2943b67",
+    "ueba/calibration/hierarchical.py": "3e955d67a888af50d769cbe43460b48383d2c50713c8fb104ba85ebb1462ec6e",
+    "ueba/calibration/role.py": "b1732697565b8931cdbc38b4a1a28304bd27541af320fb15e2a4a4e1eb8f459b",
+    "ueba/calibration/user.py": "c6c253581a012cb550c12c691dadc96722e06ca1396bd985ce33b230fc5ded4b",
+    "ueba/calibration/__init__.py": "ad0517360d99a2a9a4bd5caf31cca334be5e6a4f4f137452ac9f31a0cb7ce2b5"
+  },
+  "matched_original_r4_2_bundle": true,
+  "M4_k_user": 30,
+  "M4_k_role": 200,
+  "detector": "IsolationForest",
+  "n_estimators": 200,
+  "max_samples": 2048,
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "model_selection": "none"
+}

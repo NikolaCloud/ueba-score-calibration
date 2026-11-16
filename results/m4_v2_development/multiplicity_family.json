@@ -1,0 +1,22 @@
+{
+  "tests": 28,
+  "methods_compared_to": [
+    "M0",
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "EU",
+    "TU"
+  ],
+  "endpoints": [
+    "recall_at_1pct",
+    "max_role_fpr"
+  ],
+  "releases": [
+    "r4.2",
+    "r5.2"
+  ],
+  "replicates": 9999,
+  "exploratory": true
+}

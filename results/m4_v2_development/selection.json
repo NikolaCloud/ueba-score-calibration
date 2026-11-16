@@ -1,0 +1,133 @@
+{
+  "selected": "EB30",
+  "qualified": false,
+  "candidates": [
+    {
+      "candidate": "G30",
+      "qualified": false,
+      "mean_recall": 0.1408812949640288,
+      "mean_max_role_fpr": 0.04690995981318562,
+      "order": 0,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.135,
+          "best_baseline_recall": 0.1325,
+          "gain_against_best_baseline": 0.0025000000000000022,
+          "max_role_fpr": 0.0530791788856305,
+          "M3_max_role_fpr": 0.12258064516129033,
+          "qualified": true
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.14676258992805755,
+          "best_baseline_recall": 0.18705035971223022,
+          "gain_against_best_baseline": -0.04028776978417267,
+          "max_role_fpr": 0.04074074074074074,
+          "M3_max_role_fpr": 0.09576719576719576,
+          "qualified": false
+        }
+      }
+    },
+    {
+      "candidate": "Z30",
+      "qualified": false,
+      "mean_recall": 0.12731115107913668,
+      "mean_max_role_fpr": 0.09075724493813281,
+      "order": 1,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.057499999999999996,
+          "best_baseline_recall": 0.1325,
+          "gain_against_best_baseline": -0.07500000000000001,
+          "max_role_fpr": 0.04617165907223426,
+          "M3_max_role_fpr": 0.12258064516129033,
+          "qualified": false
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.19712230215827337,
+          "best_baseline_recall": 0.18705035971223022,
+          "gain_against_best_baseline": 0.010071942446043147,
+          "max_role_fpr": 0.13534283080403137,
+          "M3_max_role_fpr": 0.09576719576719576,
+          "qualified": false
+        }
+      }
+    },
+    {
+      "candidate": "EB30",
+      "qualified": false,
+      "mean_recall": 0.10425359712230216,
+      "mean_max_role_fpr": 0.06654517995493048,
+      "order": 2,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.0675,
+          "best_baseline_recall": 0.1325,
+          "gain_against_best_baseline": -0.065,
+          "max_role_fpr": 0.04463534274544957,
+          "M3_max_role_fpr": 0.12258064516129033,
+          "qualified": false
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.1410071942446043,
+          "best_baseline_recall": 0.18705035971223022,
+          "gain_against_best_baseline": -0.04604316546762591,
+          "max_role_fpr": 0.08845501716441137,
+          "M3_max_role_fpr": 0.09576719576719576,
+          "qualified": false
+        }
+      }
+    },
+    {
+      "candidate": "EB90",
+      "qualified": false,
+      "mean_recall": 0.11125899280575538,
+      "mean_max_role_fpr": 0.17221471852546985,
+      "order": 3,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.06999999999999999,
+          "best_baseline_recall": 0.1325,
+          "gain_against_best_baseline": -0.06250000000000001,
+          "max_role_fpr": 0.0414606210004731,
+          "M3_max_role_fpr": 0.12258064516129033,
+          "qualified": false
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.15251798561151078,
+          "best_baseline_recall": 0.18705035971223022,
+          "gain_against_best_baseline": -0.03453237410071944,
+          "max_role_fpr": 0.3029688160504666,
+          "M3_max_role_fpr": 0.09576719576719576,
+          "qualified": false
+        }
+      }
+    },
+    {
+      "candidate": "UZ",
+      "qualified": false,
+      "mean_recall": 0.10425359712230216,
+      "mean_max_role_fpr": 0.04037505783420629,
+      "order": 4,
+      "per_release": {
+        "r4.2": {
+          "recall_at_1pct": 0.0675,
+          "best_baseline_recall": 0.1325,
+          "gain_against_best_baseline": -0.065,
+          "max_role_fpr": 0.04458056323298722,
+          "M3_max_role_fpr": 0.12258064516129033,
+          "qualified": false
+        },
+        "r5.2": {
+          "recall_at_1pct": 0.1410071942446043,
+          "best_baseline_recall": 0.18705035971223022,
+          "gain_against_best_baseline": -0.04604316546762591,
+          "max_role_fpr": 0.03616955243542537,
+          "M3_max_role_fpr": 0.09576719576719576,
+          "qualified": false
+        }
+      }
+    }
+  ],
+  "rule": "Both releases: Recall@1% >= best M0-M4 and max-role FPR <= 1.1*M3; mean recall tie-break",
+  "validation_status": "Exploratory development on previously studied releases; not independent confirmation"
+}

@@ -1,0 +1,105 @@
+{
+  "files": {
+    "docs/protocol_m5.md": "66e36d0f93124ffc9dcf39defd8d4df0401c35f8aef888275fb39f5512c541cd",
+    "docs/m5_r6_label_audit_plan.md": "59f1103a2564fa63f99da4a02d0d7f558697400b651b4a6637a02857cfdf9c0d",
+    "ueba/m5/model.py": "a93dd2e18f15cd604abbaf2e4c42d56c0969f725c2b025364e31939c0720ad75",
+    "ueba/m5/threshold.py": "7b9b2dc652c83f3c8af7ed2fe30bba92645105f032cf6a03cce7755016b186ee",
+    "ueba/m5/run.py": "717dd08dd97aaa234c3706c8ed2fe322b6f032ce79cdc6935fe7aa941280e90f",
+    "ueba/m5/data.py": "0b43fdf7dc5faa5c270e9caad22416c043808b7ea5efda65f3ddaf7d63f9db8e",
+    "ueba/calibration/base.py": "afe4f90814210f4880cfb75cf1fe4bd9c6491400198eb510e46da5c9d611d414",
+    "ueba/calibration/equal.py": "faae240634de75354d9ae5a12984dd17549111c444613e586e42d626e6459ca7",
+    "ueba/calibration/global_score.py": "15617f138144e44be452575e520815e5b1807967eee2dc3ffb4932cdd2943b67",
+    "ueba/calibration/hierarchical.py": "3e955d67a888af50d769cbe43460b48383d2c50713c8fb104ba85ebb1462ec6e",
+    "ueba/calibration/role.py": "b1732697565b8931cdbc38b4a1a28304bd27541af320fb15e2a4a4e1eb8f459b",
+    "ueba/calibration/user.py": "c6c253581a012cb550c12c691dadc96722e06ca1396bd985ce33b230fc5ded4b",
+    "ueba/calibration/__init__.py": "ad0517360d99a2a9a4bd5caf31cca334be5e6a4f4f137452ac9f31a0cb7ce2b5",
+    "ueba/development/tails.py": "eb07c39c784b2c432683b3d77b9ed9e52dd84edeb0402042bb15f32019705c36",
+    "ueba/development/contextual.py": "10563f980358e7b2ea33c5be2250d6394c20b9802b65725da79f57590cfe7ec3",
+    "ueba/metrics.py": "bec42e28f29c89bcce331415659eb21df5dadd89d7a2eb0d3b2787a8b073db56",
+    "ueba/splits.py": "a288c48a7ada41218909d71114d269668ca58de6a14e096002b6bc7cf190860a",
+    "ueba/experiment.py": "f56c0e3d7ab0439ce4f2656e973e1221b9d3d897d3a14fc37e1c1fa3cf56bf10",
+    "ueba/replication/prepare.py": "95c02246f9548b86ec4a1e7716fe374e3ca76e17d326978ab54f47b465277770",
+    "ueba/replication/run.py": "b3ad4f11482b6a19a69b03d556dd94dff95729cb622053d8ec09b5daf92f4f8a"
+  },
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ],
+  "methods": [
+    "M0",
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "EU",
+    "TU",
+    "TM4",
+    "T30",
+    "AB",
+    "M5",
+    "A_no_stability",
+    "A_no_role",
+    "A_no_temporal",
+    "A_no_spike",
+    "A_frozen_history",
+    "A_no_role_guard"
+  ],
+  "baselines": [
+    "M0",
+    "M1",
+    "M2",
+    "M3",
+    "M4",
+    "EU",
+    "TU",
+    "TM4",
+    "T30",
+    "AB"
+  ],
+  "ablations": [
+    "A_no_stability",
+    "A_no_role",
+    "A_no_temporal",
+    "A_no_spike",
+    "A_frozen_history",
+    "A_no_role_guard"
+  ],
+  "fractions": [
+    0.5,
+    0.2,
+    0.15,
+    0.15
+  ],
+  "threshold_replicates": 999,
+  "bootstrap_replicates": 9999,
+  "original_methods": {
+    "calibration_sha256": {
+      "ueba/calibration/base.py": "afe4f90814210f4880cfb75cf1fe4bd9c6491400198eb510e46da5c9d611d414",
+      "ueba/calibration/equal.py": "faae240634de75354d9ae5a12984dd17549111c444613e586e42d626e6459ca7",
+      "ueba/calibration/global_score.py": "15617f138144e44be452575e520815e5b1807967eee2dc3ffb4932cdd2943b67",
+      "ueba/calibration/hierarchical.py": "3e955d67a888af50d769cbe43460b48383d2c50713c8fb104ba85ebb1462ec6e",
+      "ueba/calibration/role.py": "b1732697565b8931cdbc38b4a1a28304bd27541af320fb15e2a4a4e1eb8f459b",
+      "ueba/calibration/user.py": "c6c253581a012cb550c12c691dadc96722e06ca1396bd985ce33b230fc5ded4b",
+      "ueba/calibration/__init__.py": "ad0517360d99a2a9a4bd5caf31cca334be5e6a4f4f137452ac9f31a0cb7ce2b5"
+    },
+    "matched_original_r4_2_bundle": true,
+    "M4_k_user": 30,
+    "M4_k_role": 200,
+    "detector": "IsolationForest",
+    "n_estimators": 200,
+    "max_samples": 2048,
+    "seeds": [
+      42,
+      43,
+      44,
+      45,
+      46
+    ],
+    "model_selection": "none"
+  },
+  "r6_test_seen_at_freeze": false,
+  "development_selection": "One fixed M5, no test-dependent variant search"
+}

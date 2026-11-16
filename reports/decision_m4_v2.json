@@ -1,0 +1,31 @@
+{
+  "prototype": "M4v2-T30",
+  "selection_qualified": true,
+  "development_rounds": 2,
+  "independent_confirmation": false,
+  "original_M4_unchanged": true,
+  "superiority_to_all_methods": false,
+  "role_fpr_improvement_across_releases": false,
+  "significant_exploratory_recall_gains": [
+    {
+      "release": "r5.2",
+      "comparison": "T30-M0",
+      "p_holm": 0.0028
+    },
+    {
+      "release": "r5.2",
+      "comparison": "T30-M1",
+      "p_holm": 0.0028
+    },
+    {
+      "release": "r5.2",
+      "comparison": "T30-M3",
+      "p_holm": 0.0052
+    },
+    {
+      "release": "r5.2",
+      "comparison": "T30-M4",
+      "p_holm": 0.01
+    }
+  ]
+}

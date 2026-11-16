@@ -1,0 +1,7 @@
+{
+  "release": "r5.2",
+  "comparator": "EU",
+  "selected_on": "Threshold-validation only, before M5 test",
+  "validation_mean_recall": 0.46405228758169936,
+  "validation_mean_fpr": 0.007483520744474602
+}

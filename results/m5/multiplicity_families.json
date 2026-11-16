@@ -1,0 +1,10 @@
+{
+  "primary_tests": 6,
+  "exploratory_tests": 144,
+  "releases": [
+    "r4.2",
+    "r5.2",
+    "r6.2"
+  ],
+  "replicates": 9999
+}

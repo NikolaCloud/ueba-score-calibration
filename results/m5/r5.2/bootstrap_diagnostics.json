@@ -1,0 +1,11 @@
+{
+  "release": "r5.2",
+  "users": 1799,
+  "positive_accounts": 25,
+  "positive_days": 161,
+  "replicates": 9999,
+  "seed": 20261102,
+  "replicates_without_positive": 0,
+  "conditional_on": "Models, frozen M5 code, validation-selected thresholds and comparator",
+  "warning": "Undefined recall draws omitted from recall CI; few positive accounts imply weak population inference"
+}

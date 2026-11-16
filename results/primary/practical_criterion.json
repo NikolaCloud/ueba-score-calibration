@@ -1,0 +1,7 @@
+{
+  "max_role_fpr_relative_reduction": 0.6403569978201255,
+  "recall_change": 0.3261538461538462,
+  "point_criterion_met": true,
+  "bootstrap_joint_fraction": 0.962,
+  "note": "Bootstrap fraction is descriptive, not probability the hypothesis is true"
+}

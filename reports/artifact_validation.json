@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "data_days": 330452,
+  "positive_days": 976,
+  "checks": [
+    {
+      "protocol": "primary",
+      "seeds": 5,
+      "methods": 16,
+      "test_days": 45460,
+      "all_checks_passed": true
+    }
+  ],
+  "artifact_files": 97
+}

@@ -1,0 +1,14 @@
+{
+  "primary": {
+    "tests": 2,
+    "minimum_attainable_raw_p": 0.0001
+  },
+  "secondary": {
+    "tests": 50,
+    "minimum_attainable_raw_p": 0.0001
+  },
+  "scenario": {
+    "tests": 200,
+    "minimum_attainable_raw_p": 0.0001
+  }
+}
